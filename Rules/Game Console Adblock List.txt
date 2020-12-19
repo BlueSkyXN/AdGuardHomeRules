@@ -1,0 +1,73 @@
+[Adblock Plus 3.4]
+! Title: 🎮 Game Console Adblock List
+! Version: 04December2020v1-Alpha
+! Expires: 4 days
+! Description: Much like there's now lists for AdGuard Home and Pi-hole to block ads on smart-TVs, here's an attempt from me at doing the same for videogame consoles with AdGuard Home. Enjoy.
+! Important note: To block ads in the consoles' dedicated internet browsers with AdGuard Home, and not in the system menus, check out https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdGuard%20Home%20Compilation%20List/AdGuardHomeCompilationList.txt instead.
+! For more information, details, helpful tools, and other lists that I've made, visit https://github.com/DandelionSprout/adfilt/blob/master/Wiki/General-info.md#english
+
+! ——— PlayStation 3 ———
+! Ads
+||nsx-e.np.dl.playstation.net^
+! What's New
+||mercury.dl.playstation.net^
+! PlayStation Store Preview, incl. 'My Channels' logos
+||nsx.np.dl.playstation.net^
+! Ticker ads in the XMB clockbar
+||adproxy.ndmdhs.com^
+
+! ——— Nintendo 3DS ———
+! Blocks the "Theme Shop", with the intention of preventing the annoying pink dot in the upper left of the Home Menu from reappearing all the time.
+! WARNING: The "Theme Shop" should be visited once to remove the pink dot, and only then should this list be subscribed to.
+||npdl.cdn.nintendowifi.net^
+
+! ——— Wii U ———
+! Believed to reduce the initial loading time of Wii Sports Club by several seconds
+! Since no third-party Miiverse clients with console support are believed to be able to exist by now (January 2020), this entry is pretty much here to stay.
+||discovery.olv.nintendo.net^
+
+! ——— Xbox One ———
+! Removes sponsored info slots in the system menu
+! https://new.reddit.com/r/pihole/comments/act023/psa_block_the_sponsored_banner_ad_on_the_xbox_one/
+||arc.msn.com^
+
+! ——— Xbox 360 ———
+! Removes paid advertising on the Xbox Live Dashboard
+! https://www.ign.com/wikis/xbox-360/Block_Ads_on_Xbox_Live
+||rad.msn.com^
+
+! ——— Nintendo Switch ———
+! There is a system setting for getting rid of the Nintendo eShop advertisements on the lockscreen, which is hidden in System Settings → System → News Channel Settings → Nintendo News → Unfollow.
+! The following entries gives access on demand to the web browser, as per SwitchBru's DNS server trick (https://www.switchbru.com/dns/), while also making it possible to use AdGuard Home for adblocking at the same time. However, since SwitchBru uses a trick to make the Switch think it's partway into logging on to a hotel network, the entries would reject access to all other Switch web activities while the entries are live:
+!!! 45.55.142.122 ctest.cdn.nintendo.net
+!!! 127.0.0.1 receive-lp1.er.srv.nintendo.net
+!!! 127.0.0.1 aauth-lp1.ndas.srv.nintendo.net
+
+! ——— Nintendo DS / Wii ———
+! For a largely official list to connect to Wiimmfi (for DS games only) and RiiConnect24, check out https://raw.githubusercontent.com/RiiConnect24/DNS-Server/master/dns_zones-hosts.txt
+
+! ——— PlayStation 5 ———
+! I offer a €5 bounty to anyone who know how to either turn off the Explore menu tab, or prevent the Explore tab from loading any content, payable by PayPal.
+
+! ——— PlayStation 4 ———
+! There is a system setting for getting rid of homescreen "Buy Now"-type ads, which is hidden in Settings → System → Automatic Downloads → Featured Content → Off.
+
+! ——— PlayStation 2 ———
+! I am not personally aware of any Free McBoot homebrew apps that can connect to external domains, let alone unintentionally.
+! There were multiple third-party online game servers for the PS2, of which Bobz Entertainment and OpenSpy are the only ones with some functionality still working.
+! Any IP redirection entries for those two servers would've excluded one another; plus it appears that griefing was/is a very huge concern among the PS2 modding community, which I can vaguely presume is why they haven't openly revealed their DNS-server-side IP redirections.
+
+! ——— Xbox Series ———
+! I offer a €5 bounty to anyone who know how to remove the sponsored ads in the main menu, payable by PayPal.
+
+! ——— Dreamcast ———
+! Although I have become aware of the existence of Dreamcast Live, I can't find the IP address redirections used by their DNS server.
+
+! ——— Steam Machines / SteamOS / Steam ———
+! To get rid of popup windows that promote new games in desktop mode, go to View → Settings → Interface → "Notify me about additions or changes to my games, new releases, and upcoming releases."
+
+! ——— Epic Games Store ———
+! To remove system notifications that promote new games and sales, go to Settings → Desktop notifications, and turn off "Show News and Special Offer Notifications" and optionally "Show Free Game Notifications"
+
+! ——— Other consoles ———
+! Entry suggestions on GitHub would be much appreciated. Especially for portable PlayStation consoles and Sega Saturn, as I don't own any of them.
