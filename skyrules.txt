@@ -8,9 +8,13 @@
 ||static.doubleclick.net^$domain=youtube.com
 ||youtube.com/get_midroll_
 
+
+@@||azure.com^
 @@||keli.fun^
-@@||self.events.data.microsoft.com^
-@@||main.iam.ad.ext.azure.com^
+@@||microsoft.com^
+@@||fonts.gstatic.com^
+@@||windows.com^
+@@||live.com^
 
 ||ferentshugge.top^
 ||stsunfulnoth.top^
