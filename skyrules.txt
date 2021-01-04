@@ -1,6 +1,15 @@
 @@||analytics.google.com^
 @@||analytics.twitter.com^
 @@||manhuabei.com^
+@@||azure.com^
+@@||keli.fun^
+@@||microsoft.com^
+@@||fonts.gstatic.com^
+@@||windows.com^
+@@||live.com^
+@@||ssl.google-analytics.com
+@@||union.maccms.com
+
 
 /googleads.$~script,domain=~googleads.github.io
 /pagead/lvz?
@@ -8,13 +17,6 @@
 ||static.doubleclick.net^$domain=youtube.com
 ||youtube.com/get_midroll_
 
-
-@@||azure.com^
-@@||keli.fun^
-@@||microsoft.com^
-@@||fonts.gstatic.com^
-@@||windows.com^
-@@||live.com^
 
 ||ferentshugge.top^
 ||stsunfulnoth.top^
