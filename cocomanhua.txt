@@ -1,3 +1,6 @@
+# COCOMANHUA官网：https://www.cocomanhua.com
+# COCOMANHUA的部分广告域名来自垃圾域名后缀如FUN
+# 可以自选开启严格垃圾域名FUN的拦截。格式如：||fun^
 ||wensixuetang.com^
 ||weizhenwx.com^
 ||taiqingjiu.com^
@@ -18,3 +21,4 @@
 ||createssque.club^
 ||somewhate.club^
 ||d18t35yyry2k49.cloudfront.net^
+||freychang.fun^
