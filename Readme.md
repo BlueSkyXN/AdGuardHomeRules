@@ -9,4 +9,4 @@ https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/adhdemo.jpg
 20210129更新：滥用报告与调整  https://www.blueskyxn.com/202101/3860.html
 
 
-20210208更新：修改SKYRULE，增加COCOMANHUA定制规则
+20210208更新：修改SKYRULE，增加COCOMANHUA/DMZJ定制规则
