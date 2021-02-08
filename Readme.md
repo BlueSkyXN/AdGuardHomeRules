@@ -4,3 +4,8 @@
 
 DEMO
 https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/adhdemo.jpg
+
+
+20210129更新：滥用报告与调整
+
+https://www.blueskyxn.com/202101/3860.html
