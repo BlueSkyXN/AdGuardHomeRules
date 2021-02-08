@@ -2,13 +2,12 @@
 @@||analytics.twitter.com^
 @@||manhuabei.com^
 @@||azure.com^
-@@||keli.fun^
 @@||microsoft.com^
-@@||fonts.gstatic.com^
+@@||gstatic.com^
 @@||windows.com^
 @@||live.com^
-@@||ssl.google-analytics.com^
-@@||union.maccms.com^
+@@||google-analytics.com^
+@@||maccms.com^
 @@||gvt2.com^
 @@||googleapis.com^
 
@@ -20,41 +19,7 @@
 ||youtube.com/get_midroll_
 
 
-||ferentshugge.top^
-||stsunfulnoth.top^
-||gosyncrise.com^
-||tsyndicate.com^
-||us4post.com^
-||kingshape.top^
-||houtrelen.top^
-||gthhumili.top^
-||llerscover.top^
-||nmentsce.top^
-||exdynsrv.com^
-||trwl1.com^
-||tratefirearly.top^
-||engingalon.top^
-||secure-mobile.club^
-||guemechan.top^
-||main.exdynsrv.com^
-||rtb.us4post.com^
-||us4post.com^
-||endsensura.top^
-||realtime-bid.com^
-||nvergetpatr.top^
-||massessede.top^
-||pentialin.fun^
-||forthfinge.fun^
-||ncediscou.fun^
-||rovalionsa.fun^
-||tionmustai.fun^
-||ytxe8.xyz^
 ||5hz.org^
-||rindicalapa.fun^
-||rtpetworki.fun^
-||ngsbeautio.fun^
-||videosubsi.fun^
-||standnizati.fun^
 
 
 
