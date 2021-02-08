@@ -7,8 +7,10 @@
 @@||fonts.gstatic.com^
 @@||windows.com^
 @@||live.com^
-@@||ssl.google-analytics.com
-@@||union.maccms.com
+@@||ssl.google-analytics.com^
+@@||union.maccms.com^
+@@||gvt2.com^
+@@||googleapis.com^
 
 
 /googleads.$~script,domain=~googleads.github.io
