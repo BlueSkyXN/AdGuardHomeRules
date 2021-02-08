@@ -4,3 +4,16 @@
 ||exdynsrv.com^
 ||mmstat.com^
 ||s3t3d2y7.ackcdn.net^
+||tc6tc.com^
+||670t5x.cn^
+||thefatherofsalmon.com^
+||v1.cnzz.com^
+||mosflower.cn^
+||hhttm.top^
+||dacedsfa.cn^
+||0yq00i.cn^
+||xcisleoa.cn^
+||pmvlwjy.cn^
+
+||static-20210110.obs.cn-east-3.myhuaweicloud.com
+||succ.obs.cn-south-1.myhuaweicloud.com
