@@ -28,5 +28,8 @@
 ||liangzhongmiye.com^
 ||mbiaowx.com^
 ||pic.cytcm.com^
+@@||tagtic.cn^
+@@||knet.cn^
+@@||anquan.org^
 
 
