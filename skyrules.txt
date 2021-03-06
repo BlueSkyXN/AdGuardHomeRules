@@ -10,7 +10,8 @@
 @@||maccms.com^
 @@||gvt2.com^
 @@||googleapis.com^
-
+@@||www.paypalobjects.com^
+@@||paypal.com^
 
 /googleads.$~script,domain=~googleads.github.io
 /pagead/lvz?
