@@ -1,18 +1,3 @@
-@@||analytics.google.com^
-@@||analytics.twitter.com^
-@@||manhuabei.com^
-@@||azure.com^
-@@||microsoft.com^
-@@||gstatic.com^
-@@||windows.com^
-@@||live.com^
-@@||google-analytics.com^
-@@||maccms.com^
-@@||gvt2.com^
-@@||googleapis.com^
-@@||www.paypalobjects.com^
-@@||paypal.com^
-
 /googleads.$~script,domain=~googleads.github.io
 /pagead/lvz?
 ||google.com/pagead/
@@ -21,14 +6,4 @@
 
 
 ||5hz.org^
-||33377*.com^
-||img.downk.cc^
-||wofjhs.com^
-||x08880.com^
-||czisland.com^
-||liangzhongmiye.com^
-||mbiaowx.com^
-||pic.cytcm.com^
-@@||tagtic.cn^
-@@||knet.cn^
-@@||anquan.org^
+
