@@ -1,6 +1,6 @@
 # COCOMANHUA官网：https://www.cocomanhua.com
 # COCOMANHUA的部分广告域名来自垃圾域名后缀如FUN
-# 可以自选开启严格垃圾域名FUN的拦截。格式如：||fun^
+# 可以自选开启严格垃圾域名FUN的拦截 【cocomanhua-plus.txt】
 ||wensixuetang.com^
 ||weizhenwx.com^
 ||taiqingjiu.com^
@@ -20,18 +20,29 @@
 ||dicancele.fun^
 ||createssque.club^
 ||somewhate.club^
-||d18t35yyry2k49.cloudfront.net
 ||freychang.fun^
 ||uttlinediv.top^
-||dmmzkfd82wayn.cloudfront.net
-||webpick-cdn.s3-us-west-2.amazonaws.com
-||renhadmasandbab.info
-||pyeditingpro.biz
-||xml.realtime-bid.com
-||d2kadvyeq051an.cloudfront.net
-||ofreadingand.biz
-||dwnm2295blvjq.cloudfront.net
-||securitymobile.club
-||providentsopport.site
-||ditorialproce.biz
+||renhadmasandbab.info^
+||pyeditingpro.biz^
+||realtime-bid.com^
+||ofreadingand.biz^
+||securitymobile.club^
+||providentsopport.site^
+||ditorialproce.biz^
+||meetsourhig.biz^
+||ads.exoclick.com^
+||exdynsrv.com^
+||annelinterv.fun^
 
+||webpick-cdn.s3-us-west-2.amazonaws.com^
+
+||d18t35yyry2k49.cloudfront.net^
+||dmmzkfd82wayn.cloudfront.net^
+||d2kadvyeq051an.cloudfront.net^
+||dwnm2295blvjq.cloudfront.net^
+||d10lumateci472.cloudfront.net^
+||d1ac2du043ydir.cloudfront.net^
+||d10lumateci472.cloudfront.net^
+
+
+||s3t3d2y7.ackcdn.net^

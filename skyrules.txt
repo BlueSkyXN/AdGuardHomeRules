@@ -4,6 +4,5 @@
 ||static.doubleclick.net^$domain=youtube.com
 ||youtube.com/get_midroll_
 
-@@||c3pool.com^
 ||5hz.org^
 

@@ -19,3 +19,5 @@
 
 @@||fvs.io^
 @@||ssl.p.jwpcdn.com
+
+@@||c3pool.com^
