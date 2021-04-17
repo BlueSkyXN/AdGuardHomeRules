@@ -33,6 +33,10 @@
 ||ads.exoclick.com^
 ||exdynsrv.com^
 ||annelinterv.fun^
+||okforwardt.fun^
+||ancheonyo.fun^
+||venienceilo.fun^
+
 
 ||webpick-cdn.s3-us-west-2.amazonaws.com^
 
@@ -43,6 +47,11 @@
 ||d10lumateci472.cloudfront.net^
 ||d1ac2du043ydir.cloudfront.net^
 ||d10lumateci472.cloudfront.net^
-
+||d3beefy8kd1pr7.cloudfront.net^
 
 ||s3t3d2y7.ackcdn.net^
+
+||run-syndicate.com^
+||lcdn.runative-syndicate.com^
+||www.musicoholics.com^
+||richshredinger.com^

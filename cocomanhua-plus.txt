@@ -6,4 +6,5 @@
 ||ackcdn.net^
 ||ideliv.net^
 ||fikri-ayo.com^
+||img.cdn.house^
 @@||hanada.info^
