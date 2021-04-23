@@ -12,12 +12,15 @@
 @@||googleapis.com^
 @@||www.paypalobjects.com^
 @@||paypal.com^
+@@||aws.amazon.com^
 
 @@||tagtic.cn^
 @@||knet.cn^
 @@||anquan.org^
+@@||hanada.info^
 
 @@||fvs.io^
 @@||ssl.p.jwpcdn.com
 
 @@||c3pool.com^
+
