@@ -8,6 +8,8 @@
 
 [![adhdemo.jpg](https://p.pstatp.com/origin/pgc-image/8eb5cd55cfad436a82c28e4f60eb1608)](https://p.pstatp.com/origin/pgc-image/8eb5cd55cfad436a82c28e4f60eb1608)
 
+https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt
+
 # 更新日志
 
 20210129更新：滥用报告与调整  https://www.blueskyxn.com/202101/3860.html
