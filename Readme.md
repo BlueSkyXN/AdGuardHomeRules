@@ -1,10 +1,16 @@
-由BlueSkyXN原创
-请前往相关介绍博文：http://blog.000714.xyz/202012/2940.html
+# 简介
+高达百万级规则！由我原创&整理的 AdGuardHomeRules ADH广告拦截过滤规则！打造全网最强最全规则集
+
+请前往相关介绍博文：https://www.blueskyxn.com/202012/2940.html
 
 
-DEMO
-https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/adhdemo.jpg
+# DEMO
 
+[![adhdemo.jpg](https://p.pstatp.com/origin/pgc-image/8eb5cd55cfad436a82c28e4f60eb1608)](https://p.pstatp.com/origin/pgc-image/8eb5cd55cfad436a82c28e4f60eb1608)
+
+https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt
+
+# 更新日志
 
 20210129更新：滥用报告与调整  https://www.blueskyxn.com/202101/3860.html
 
