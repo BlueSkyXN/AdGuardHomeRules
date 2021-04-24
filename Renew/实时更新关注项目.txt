@@ -4,4 +4,3 @@ https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt
 https://easylist.to/
 https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-https://raw.githubusercontent.com/yous/YousList/master/youslist.txt
