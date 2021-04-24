@@ -1,7 +1,7 @@
 # 简介
 高达百万级规则！由我原创&整理的 AdGuardHomeRules ADH广告拦截过滤规则！打造全网最强最全规则集
 
-请前往相关介绍博文：http://blog.000714.xyz/202012/2940.html
+请前往相关介绍博文：https://www.blueskyxn.com/202012/2940.html
 
 
 # DEMO
