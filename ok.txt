@@ -1,6 +1,5 @@
 @@||analytics.google.com^
 @@||analytics.twitter.com^
-@@||manhuabei.com^
 @@||azure.com^
 @@||microsoft.com^
 @@||gstatic.com^
@@ -12,7 +11,7 @@
 @@||googleapis.com^
 @@||www.paypalobjects.com^
 @@||paypal.com^
-@@||aws.amazon.com^
+@@||amazon.com^
 
 @@||tagtic.cn^
 @@||knet.cn^
