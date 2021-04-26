@@ -13,6 +13,8 @@
 @@||paypal.com^
 @@||amazon.com^
 
+@@||ad.jp^
+
 @@||tagtic.cn^
 @@||knet.cn^
 @@||anquan.org^
