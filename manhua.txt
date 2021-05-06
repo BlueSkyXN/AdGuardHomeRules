@@ -43,6 +43,8 @@
 ||nutaku.net^
 ||etlanaberez.fun^
 ||obertsiamw.fun^
+||rr.tracker.mobiletracking.ru^
+||www.ostlon.com^
 
 ||d18t35yyry2k49.cloudfront.net^
 ||dmmzkfd82wayn.cloudfront.net^
