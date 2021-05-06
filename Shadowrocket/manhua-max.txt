@@ -1,0 +1,4 @@
+||cloudfront.net^
+||inews.gtimg.com^
+||yahoo.com^
+||yimg.com^
