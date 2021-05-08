@@ -46,6 +46,9 @@
 ||rr.tracker.mobiletracking.ru^
 ||www.ostlon.com^
 ||wwads.cn^
+||uniformer.biz^
+||entsnotesq.fun^
+||nourcomip.fun^
 
 ||d18t35yyry2k49.cloudfront.net^
 ||dmmzkfd82wayn.cloudfront.net^
