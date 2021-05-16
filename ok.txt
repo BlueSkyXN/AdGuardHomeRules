@@ -19,6 +19,11 @@
 @@||knet.cn^
 @@||anquan.org^
 @@||hanada.info^
+@@||moonbbs.com^
+@@||weiming.info^
+@@||disqus.com^
+@@||referrer.disqus.com^
+@@||go.rakuten.com^
 
 @@||fvs.io^
 @@||ssl.p.jwpcdn.com
