@@ -56,6 +56,7 @@
 ||poasotha.com^
 ||forzubatr.com^
 ||shixiong.xyz^
+||gtoyouin.biz^
 
 
 
@@ -72,10 +73,13 @@
 ||v1.cnzz.com^
 ||cnzz.mmstat.com^
 
+||littlecdn.com^
+||in-page-push.com^
 ||s3t3d2y7.ackcdn.net^
 ||musicoholics.com^
 ||richshredinger.com^
-
+||static.ptoahaistais.com^
+||static.cdnativepush.com^
 
 #DMZJ动漫之家官网：https://manhua.dmzj.com
 
@@ -115,12 +119,19 @@
 
 @@||www.dm5.com^
 @@||cdnmanhua.net^
+||css122us.cdnmanhua.net^
 ||s.yimg.com^
 ||pix.us.criteo.net^
 ||pr-bh.ybp.yahoo.com^
 ||cat.da.us.criteo.com^
 ||www.leibish.com^
 ||kdcl.pchome.com.tw^
+||ad.adondemand.com^
+||ad.sitemaji.com^
+||www.lookit.tw^
+||ads.yap.yahoo.com^
+||beap.gemini.yahoo.com^
+||s.yimg.com^
 
 #爱优漫 www.iyouman.com
 #原漫画呗 www.manhuabei.com 跳转到这个站
