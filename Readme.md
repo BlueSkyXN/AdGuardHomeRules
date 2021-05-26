@@ -25,6 +25,11 @@ https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua-plus.
 
 https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua-max.txt
 
+### UBCN补充规则
+
+https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ubcn.txt
+
+
 
 # 更新日志
 
