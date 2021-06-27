@@ -29,7 +29,13 @@
 
 ||cur.gearbest.com^
 ||cartm.gearbest.com^
+||cart.gearbest.com^
 ||www.gearbest.com^
 ||loginm.gearbest.com^
+||login.gearbest.com^
 ||userm.gearbest.com^
-||orderm.gearbest.com
+||user.gearbest.com^
+||orderm.gearbest.com^
+||order.gearbest.com^
+||m.gearbest.com^
+||affiliate.gearbest.com^
