@@ -13,6 +13,7 @@
 @@||paypal.com^
 @@||amazon.com^
 @@||fonts.gstatic.com^
+@@||search.google.com^
 
 @@||ad.jp^
 
