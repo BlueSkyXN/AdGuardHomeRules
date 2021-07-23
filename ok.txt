@@ -12,6 +12,7 @@
 @@||www.paypalobjects.com^
 @@||paypal.com^
 @@||amazon.com^
+@@||fonts.gstatic.com^
 
 @@||ad.jp^
 
