@@ -42,13 +42,5 @@
 
 @@||cdn1.skrill.com^
 @@||aa.online-metrix.net^
-||bookbk.img.zhangyue01.com
 @@||www.secretchina.com^
-||selornews.com^
-||reminews.com^
-||jashautchord.com^
-||yonsandileer.com^
-||hadesleta.com^
-@@||static.cdnativepush.com^
-||chykohija.pro^
-||widow5blackfr.com^
+
