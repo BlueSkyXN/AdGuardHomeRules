@@ -14,6 +14,7 @@
 @@||amazon.com^
 @@||fonts.gstatic.com^
 @@||search.google.com^
+@@||squareup.com^
 
 @@||ad.jp^
 
