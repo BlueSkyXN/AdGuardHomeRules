@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202111161812
+! Version: 202201162319
 ! Title: CJX's Annoyance List
-! Last modified: 2021/11/16 18:12 +0800
+! Last modified: 2022/01/16 23:19 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 !
@@ -61,7 +61,6 @@
 ||bjmantis.net^
 ||crs.baidu.com^
 ||goutong.baidu.com^
-||knet.cn^$third-party
 ||kuaishang.cn^$third-party
 ||live800.com^$third-party
 ||looyu.com^$third-party
@@ -441,7 +440,7 @@
 ||jsdelivr.net/gh/huang545/huang1111@1.0/bottom.png
 ||pstatp.com/origin/137370002e7fbe11b296a
 ||qcjycg.com/template/conch/asset/js/hl
-/\/data\/cache\/(?!(common|forum|home\.|portal|seditor|smilies))[a-z_]+\.js/$script,domain=pcbeta.com
+/\/data\/cache\/(?!(common\.|common_extra\.|forum\.|forum_viewthread\.js|home\.|portal\.|seditor|smilies))[a-z_]+\.js/$script,domain=pcbeta.com
 ||above.tw/blog/wp-content/plugins/popups/public/assets/js/public.js
 ||zhihu.com/sku/km_resource?token=feed-right-banner
 ||sinaimg.cn/finance/stock/hq/src/popuptoapp.js
@@ -453,12 +452,29 @@
 ||mydrivers.com^*/xianshitehui.png
 ||mydrivers.com/m/images/v1/kkjapp_down.gif
 ||ydstatic.com/fanyi/fanyi-ad-place/
+||feedou.com/nzq/style/pc/js/popbig.js
+||feedou.com/nzq/style/pc/js/zt_bottom.js
+||nxhh.net/gw/gw.js
+||kuaishang.com.cn^
+||docer.org/static/utils/jquery.min.js
+||terrynow.com^$csp=script-src 'self' * 'unsafe-eval'
+||kf.qingwk.com^
+||ypojie.com/wp-content/uploads/*.js
+||yxdm.*/js/ddetector.js
+||eng24.com/js_new/copyright_float.
+||gedu.org/js/meiqia_pc_groupmarket.
+||linovelib.com/scripts/code.
 !------------------------Specific element hiding rules------------------------!
+qingwk.com##.c-footer-banner
+jingyan.baidu.com##.task-panel-entrance
+jingyan.baidu.com##.wgt-cms-banner
+jingyan.baidu.com##.activity-entrance
+luogu.com.cn##.side > div:last-child
+sonkwo.hk##.store-ad-waist
 360kuai.com###task__modal__container
 360kuai.com##.taskbar
 bjd.com.cn##.screenad
 sina.com.cn##A[href="https://touzi.sina.com.cn/"]
-finance.sina.com.cn##DIV[class*="game"]
 weimob.com###active-entrance
 pconline.com.cn##.fixLeftQRcode
 cheetahfun.com##.guide
@@ -544,6 +560,7 @@ ke.qq.com##.bottom-bar
 tuchong.com##.float
 baidu.com##.desktop-guide
 bilibili.com##.video-page-game-card
+bilibili.com##.video-page-game-card-small
 ldmnq.com##.dialog-game
 hupu.com###game-center-entrance-container
 hupu.com##DIV[class^="game-center-"]
