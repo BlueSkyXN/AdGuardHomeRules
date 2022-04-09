@@ -8,7 +8,6 @@
 ||1sttheglobal.com^
 ||1sttheworld.com^
 ||1sttheworld.online^
-||7.shopsharm.ru^
 ||acquatee.com^
 ||adidasko.com^
 ||ahenana.com^
@@ -40,10 +39,10 @@
 ||beecrave.com^
 ||benecharm.com^
 ||berfumetee.com^
-||berrycats.com^
 ||bestbabyyoda.com^
 ||bestmoonshop.com^
 ||bknstore.com^
+||blingyy.com^
 ||bloomingvibe.com^
 ||bltskins.com^
 ||boobeeshop.com^
@@ -63,6 +62,7 @@
 ||charmsection.com^
 ||charpente-ramel.com^
 ||cherryzones.com^
+||chiclife.co.uk^
 ||chikepod.com^
 ||chipcy.com^
 ||chipteeamz.com^
@@ -121,6 +121,7 @@
 ||fancycentral.com^
 ||fapst.com^
 ||farmer-love.us^
+||fasinal.com^
 ||feddiy.com^
 ||findglocal.com^
 ||fishingdaily.shop^
@@ -187,10 +188,12 @@
 ||januashop.com^
 ||jellystores.com^
 ||jollyfamilygifts.net^
+||joseph-holland.com^
 ||khoinguyenhanoi.vn^
 ||kigurumi-usa.com^
 ||killtee.com^
 ||kindapod.com^
+||kingteestore.com^
 ||kisserine.com^
 ||kitchendecor.shop^
 ||ksvitmimay.com^
@@ -224,6 +227,7 @@
 ||luvinstars.com^
 ||luxsgear.com^
 ||magnasat.com^
+||makewallperfect.store^
 ||mangacos.com^
 ||marleytecnologica.com^
 ||mbtnorge.com^
@@ -231,7 +235,6 @@
 ||meowpinky.com^
 ||mezlife.com^
 ||miucart.com^
-||miuprints.com^
 ||monkstars.com^
 ||mononus.com^
 ||moteshoes.com^
@@ -260,7 +263,6 @@
 ||norfotball.com^
 ||norgefotball.com^
 ||norgejakke.com^
-||norgejakkerbutikk.com^
 ||norgeshoes.com^
 ||odinpc.com^
 ||oflike.com^
@@ -283,6 +285,7 @@
 ||pjs.outlet.com^
 ||plutostars.com^
 ||popeurope.com^
+||poppop.online^
 ||poravoda.com^
 ||premiumqualityblanket.com^
 ||premiumtour-don.com^
@@ -307,7 +310,6 @@
 ||shinepuzzle.com^
 ||shinezily.com^
 ||shirttest.com^
-||shirtwide.com^
 ||shoeaddic.com^
 ||shop.spreadshirt.com^
 ||shopusawarehouse.com^
@@ -363,7 +365,6 @@
 ||tartannewzealand.myshopify.com^
 ||tee24h.com^
 ||teearrow.com^
-||teefoody.com^
 ||teenimo.com^
 ||teezill.com^
 ||thechildhooddream.com^
@@ -373,6 +374,7 @@
 ||thekeilas.com^
 ||theshiny.store^
 ||theshirtyouneed.com^
+||thevitic.com^
 ||thevitic.onshopbase.com^
 ||tikgeeker.com^
 ||tiranaaquapark-eg.com^
@@ -380,6 +382,7 @@
 ||tomadamsenergy.com^
 ||topsdiy.com^
 ||trade-skins.net^
+||treasurefan.com^
 ||trendsharks.com^
 ||trendybuddystore.com^
 ||treverschmelerkris18.myshopify.com^

@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 947
+# Domains: 962
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -15,9 +15,6 @@
 0.0.0.0 www.1sttheworld.com
 0.0.0.0 1sttheworld.online
 0.0.0.0 www.1sttheworld.online
-0.0.0.0 7.shopsharm.ru
-0.0.0.0 www.7.shopsharm.ru
-0.0.0.0 store.7.shopsharm.ru
 0.0.0.0 acquatee.com
 0.0.0.0 www.acquatee.com
 0.0.0.0 adidasko.com
@@ -69,6 +66,7 @@
 0.0.0.0 www.arvetellefsen.no
 0.0.0.0 assassinfitness.com
 0.0.0.0 www.assassinfitness.com
+0.0.0.0 store.assassinfitness.com
 0.0.0.0 atrendsz.com
 0.0.0.0 www.atrendsz.com
 0.0.0.0 attenstyle.com
@@ -91,15 +89,15 @@
 0.0.0.0 store.benecharm.com
 0.0.0.0 berfumetee.com
 0.0.0.0 www.berfumetee.com
-0.0.0.0 berrycats.com
-0.0.0.0 www.berrycats.com
-0.0.0.0 store.berrycats.com
 0.0.0.0 bestbabyyoda.com
 0.0.0.0 www.bestbabyyoda.com
 0.0.0.0 bestmoonshop.com
 0.0.0.0 www.bestmoonshop.com
 0.0.0.0 bknstore.com
 0.0.0.0 www.bknstore.com
+0.0.0.0 blingyy.com
+0.0.0.0 www.blingyy.com
+0.0.0.0 store.blingyy.com
 0.0.0.0 bloomingvibe.com
 0.0.0.0 www.bloomingvibe.com
 0.0.0.0 store.bloomingvibe.com
@@ -146,6 +144,9 @@
 0.0.0.0 cherryzones.com
 0.0.0.0 www.cherryzones.com
 0.0.0.0 store.cherryzones.com
+0.0.0.0 chiclife.co.uk
+0.0.0.0 www.chiclife.co.uk
+0.0.0.0 store.chiclife.co.uk
 0.0.0.0 chikepod.com
 0.0.0.0 www.chikepod.com
 0.0.0.0 chipcy.com
@@ -188,11 +189,13 @@
 0.0.0.0 www.couponxoo.com
 0.0.0.0 customizerbox.com
 0.0.0.0 www.customizerbox.com
+0.0.0.0 store.customizerbox.com
 0.0.0.0 danylevych.com
 0.0.0.0 www.danylevych.com
 0.0.0.0 decoryourhome.store
 0.0.0.0 deergift.com
 0.0.0.0 www.deergift.com
+0.0.0.0 store.deergift.com
 0.0.0.0 defcon7.com.br
 0.0.0.0 www.defcon7.com.br
 0.0.0.0 deluxdoll.com
@@ -272,6 +275,9 @@
 0.0.0.0 store.fapst.com
 0.0.0.0 farmer-love.us
 0.0.0.0 www.farmer-love.us
+0.0.0.0 fasinal.com
+0.0.0.0 www.fasinal.com
+0.0.0.0 store.fasinal.com
 0.0.0.0 feddiy.com
 0.0.0.0 www.feddiy.com
 0.0.0.0 findglocal.com
@@ -301,6 +307,7 @@
 0.0.0.0 www.fruitstee.com
 0.0.0.0 fulfillgift.com
 0.0.0.0 www.fulfillgift.com
+0.0.0.0 store.fulfillgift.com
 0.0.0.0 furoshop.com
 0.0.0.0 www.furoshop.com
 0.0.0.0 store.furoshop.com
@@ -421,7 +428,10 @@
 0.0.0.0 store.jellystores.com
 0.0.0.0 jollyfamilygifts.net
 0.0.0.0 www.jollyfamilygifts.net
+0.0.0.0 joseph-holland.com
+0.0.0.0 www.joseph-holland.com
 0.0.0.0 khoinguyenhanoi.vn
+0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 www.kigurumi-usa.com
@@ -429,6 +439,9 @@
 0.0.0.0 www.killtee.com
 0.0.0.0 kindapod.com
 0.0.0.0 www.kindapod.com
+0.0.0.0 kingteestore.com
+0.0.0.0 www.kingteestore.com
+0.0.0.0 store.kingteestore.com
 0.0.0.0 kisserine.com
 0.0.0.0 www.kisserine.com
 0.0.0.0 kitchendecor.shop
@@ -444,7 +457,6 @@
 0.0.0.0 www.ladamustore.com
 0.0.0.0 store.ladamustore.com
 0.0.0.0 lakersfanshoponline.com
-0.0.0.0 www.lakersfanshoponline.com
 0.0.0.0 store.lakersfanshoponline.com
 0.0.0.0 legarralazcoz.com
 0.0.0.0 www.legarralazcoz.com
@@ -493,6 +505,7 @@
 0.0.0.0 www.lucatee.com
 0.0.0.0 lucidtiger.com
 0.0.0.0 www.lucidtiger.com
+0.0.0.0 store.lucidtiger.com
 0.0.0.0 luckyhomie.com
 0.0.0.0 www.luckyhomie.com
 0.0.0.0 store.luckyhomie.com
@@ -507,6 +520,8 @@
 0.0.0.0 www.luxsgear.com
 0.0.0.0 magnasat.com
 0.0.0.0 www.magnasat.com
+0.0.0.0 makewallperfect.store
+0.0.0.0 store.makewallperfect.store
 0.0.0.0 mangacos.com
 0.0.0.0 www.mangacos.com
 0.0.0.0 store.mangacos.com
@@ -521,12 +536,8 @@
 0.0.0.0 www.meowpinky.com
 0.0.0.0 mezlife.com
 0.0.0.0 www.mezlife.com
-0.0.0.0 store.mezlife.com
 0.0.0.0 miucart.com
 0.0.0.0 www.miucart.com
-0.0.0.0 miuprints.com
-0.0.0.0 www.miuprints.com
-0.0.0.0 store.miuprints.com
 0.0.0.0 monkstars.com
 0.0.0.0 www.monkstars.com
 0.0.0.0 mononus.com
@@ -562,6 +573,7 @@
 0.0.0.0 store.natistore.us
 0.0.0.0 nearmetshirt.com
 0.0.0.0 www.nearmetshirt.com
+0.0.0.0 store.nearmetshirt.com
 0.0.0.0 neozor.com
 0.0.0.0 www.neozor.com
 0.0.0.0 nevaon.com
@@ -592,9 +604,6 @@
 0.0.0.0 norgejakke.com
 0.0.0.0 www.norgejakke.com
 0.0.0.0 store.norgejakke.com
-0.0.0.0 norgejakkerbutikk.com
-0.0.0.0 www.norgejakkerbutikk.com
-0.0.0.0 store.norgejakkerbutikk.com
 0.0.0.0 norgeshoes.com
 0.0.0.0 www.norgeshoes.com
 0.0.0.0 store.norgeshoes.com
@@ -648,6 +657,8 @@
 0.0.0.0 popeurope.com
 0.0.0.0 www.popeurope.com
 0.0.0.0 store.popeurope.com
+0.0.0.0 poppop.online
+0.0.0.0 www.poppop.online
 0.0.0.0 poravoda.com
 0.0.0.0 www.poravoda.com
 0.0.0.0 store.poravoda.com
@@ -704,9 +715,6 @@
 0.0.0.0 shirttest.com
 0.0.0.0 www.shirttest.com
 0.0.0.0 store.shirttest.com
-0.0.0.0 shirtwide.com
-0.0.0.0 www.shirtwide.com
-0.0.0.0 store.shirtwide.com
 0.0.0.0 shoeaddic.com
 0.0.0.0 www.shoeaddic.com
 0.0.0.0 shop.spreadshirt.com
@@ -715,6 +723,7 @@
 0.0.0.0 store.shopusawarehouse.com
 0.0.0.0 sieuto.com
 0.0.0.0 www.sieuto.com
+0.0.0.0 store.sieuto.com
 0.0.0.0 sigmaoffers.com
 0.0.0.0 www.sigmaoffers.com
 0.0.0.0 signpify.com
@@ -731,6 +740,7 @@
 0.0.0.0 www.sligen.com
 0.0.0.0 smartgadgettrend.com
 0.0.0.0 www.smartgadgettrend.com
+0.0.0.0 store.smartgadgettrend.com
 0.0.0.0 smartpower4all.org
 0.0.0.0 www.smartpower4all.org
 0.0.0.0 smartproduct.site
@@ -829,8 +839,6 @@
 0.0.0.0 www.tee24h.com
 0.0.0.0 teearrow.com
 0.0.0.0 www.teearrow.com
-0.0.0.0 teefoody.com
-0.0.0.0 www.teefoody.com
 0.0.0.0 teenimo.com
 0.0.0.0 www.teenimo.com
 0.0.0.0 teezill.com
@@ -852,6 +860,7 @@
 0.0.0.0 store.theshiny.store
 0.0.0.0 theshirtyouneed.com
 0.0.0.0 www.theshirtyouneed.com
+0.0.0.0 www.thevitic.com
 0.0.0.0 thevitic.onshopbase.com
 0.0.0.0 www.thevitic.onshopbase.com
 0.0.0.0 store.thevitic.onshopbase.com
@@ -870,6 +879,9 @@
 0.0.0.0 www.topsdiy.com
 0.0.0.0 trade-skins.net
 0.0.0.0 www.trade-skins.net
+0.0.0.0 treasurefan.com
+0.0.0.0 www.treasurefan.com
+0.0.0.0 store.treasurefan.com
 0.0.0.0 trendsharks.com
 0.0.0.0 www.trendsharks.com
 0.0.0.0 store.trendsharks.com
@@ -886,6 +898,8 @@
 0.0.0.0 tycomex.com
 0.0.0.0 www.tycomex.com
 0.0.0.0 u.umax-pro.ru
+0.0.0.0 www.u.umax-pro.ru
+0.0.0.0 store.u.umax-pro.ru
 0.0.0.0 ultimate-tech-products.myshopify.com
 0.0.0.0 www.ultimate-tech-products.myshopify.com
 0.0.0.0 store.ultimate-tech-products.myshopify.com
@@ -920,6 +934,7 @@
 0.0.0.0 viberman.com
 0.0.0.0 vikingstore.co
 0.0.0.0 www.vikingstore.co
+0.0.0.0 store.vikingstore.co
 0.0.0.0 vipticketgiveaway.com
 0.0.0.0 www.vipticketgiveaway.com
 0.0.0.0 wavetshirt.com
