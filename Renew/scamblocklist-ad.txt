@@ -17,13 +17,13 @@
 ||aliripple.com^
 ||aliseshop.com^
 ||aliyaoberbrunnergreg21.myshopify.com^
-||allergyfl.com^
 ||allstarshirt.com^
 ||alltestbanksolutions.com^
 ||alohazing.com^
 ||altruetech.com^
 ||anclice.com^
 ||animeshoppers.com^
+||aoptee.com^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
 ||arthoodie.com^
@@ -46,6 +46,7 @@
 ||bloomingvibe.com^
 ||bltskins.com^
 ||boobeeshop.com^
+||boododa.com^
 ||booliving.com^
 ||bossaving.com^
 ||boutiqueondemand.com^
@@ -58,8 +59,8 @@
 ||canjaume.com^
 ||carmenfloral.com^
 ||carvemyname.com^
+||castim.info^
 ||charmbean.com^
-||charmsection.com^
 ||charpente-ramel.com^
 ||cherryzones.com^
 ||chiclife.co.uk^
@@ -67,6 +68,7 @@
 ||chipcy.com^
 ||chipteeamz.com^
 ||cipustar.com^
+||cition.info^
 ||cityofdream.co.uk^
 ||clemoa.com^
 ||cloverszone.com^
@@ -79,7 +81,6 @@
 ||coolztz.com^
 ||coralls.com^
 ||corg.co^
-||costcotee.com^
 ||couponxoo.com^
 ||customizerbox.com^
 ||danylevych.com^
@@ -118,6 +119,7 @@
 ||familylovesgift.com^
 ||familyshark.com^
 ||familystore.com^
+||famoury.com^
 ||fancycentral.com^
 ||fapst.com^
 ||farmer-love.us^
@@ -137,7 +139,6 @@
 ||fulfillgift.com^
 ||furoshop.com^
 ||fveco.com^
-||g1z0.myinstructus.com^
 ||gameconsoless.com^
 ||gearanime.com^
 ||gearathena.com^
@@ -198,7 +199,6 @@
 ||kitchendecor.shop^
 ||ksvitmimay.com^
 ||kuteblanket.store^
-||kxu.myinstructus.com^
 ||ladamustore.com^
 ||lakersfanshoponline.com^
 ||legarralazcoz.com^
@@ -206,6 +206,7 @@
 ||lericettedifrancy74.com^
 ||letrantrunghieu.com^
 ||letteringift.com^
+||levastyle.com^
 ||ligerking.com^
 ||lindseysopticians.com^
 ||linkshe.com^
@@ -233,7 +234,6 @@
 ||mbtnorge.com^
 ||meaningift.com^
 ||meowpinky.com^
-||mezlife.com^
 ||miucart.com^
 ||monkstars.com^
 ||mononus.com^
@@ -294,6 +294,7 @@
 ||qooraa.com^
 ||quintrendy.com^
 ||rabamnetee.com^
+||rbkbb.com^
 ||rebeccatees.com^
 ||reforest-iita.org^
 ||reviewshirts.com^
@@ -321,7 +322,6 @@
 ||skins-store.net^
 ||skinszone.net^
 ||sligen.com^
-||smartgadgettrend.com^
 ||smartpower4all.org^
 ||smartproduct.site^
 ||sodipi.com^
@@ -366,6 +366,7 @@
 ||tee24h.com^
 ||teearrow.com^
 ||teenimo.com^
+||teesunshine.com^
 ||teezill.com^
 ||thechildhooddream.com^
 ||thecustomee.com^
@@ -376,6 +377,7 @@
 ||theshirtyouneed.com^
 ||thevitic.com^
 ||thevitic.onshopbase.com^
+||ti-yo.com^
 ||tikgeeker.com^
 ||tiranaaquapark-eg.com^
 ||tlonsey.com^
@@ -397,7 +399,6 @@
 ||uniqueetee.com^
 ||ureashi.com^
 ||usasport247.com^
-||uuc.joyofprogress.com^
 ||vavaname.com^
 ||vegamartz.com^
 ||verfun.com^
@@ -406,6 +407,7 @@
 ||vikingstore.co^
 ||vipticketgiveaway.com^
 ||wavetshirt.com^
+||weheartitstore.com^
 ||wezpod.com^
 ||whbinder.com^
 ||wikeb.com^
@@ -418,4 +420,3 @@
 ||yomoun.com^
 ||zedbubble.com^
 ||zerowasteinitiative.com^
-||zgalaxytee.com^
