@@ -37,6 +37,7 @@
 @@||cdn1.skrill.com^
 @@||aa.online-metrix.net^
 @@||www.secretchina.com^
+@@||mobile-collector.newrelic.com
 
 @@||000714.xyz^
 @@||blueskyxn.com^
