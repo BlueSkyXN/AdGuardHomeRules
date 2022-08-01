@@ -16,6 +16,14 @@
 @@||search.google.com^
 @@||squareup.com^
 
+@@||api.onesignal.com^
+@@||smetrics.discover.com^
+@@||content.discovercard.com^
+@@||dpm.demdex.net^
+@@||mboxedge35.tt.omtrdc.net^
+@@||api2.branch.io^
+
+
 @@||ad.jp^
 
 @@||tagtic.cn^
