@@ -22,6 +22,9 @@
 @@||dpm.demdex.net^
 @@||mboxedge35.tt.omtrdc.net^
 @@||api2.branch.io^
+@@||mobile.launchdarkly.com^
+@@||charlesschwab.sc.omtrdc.net^
+
 
 
 @@||ad.jp^
