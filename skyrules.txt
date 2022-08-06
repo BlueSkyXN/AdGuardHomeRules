@@ -111,5 +111,5 @@
 ||pieceredirect.com^
 ||super-app.me^
 ||ad-static-xg.tagtic.cn^
-
+||cdn.ggsfq.xyz^
 
