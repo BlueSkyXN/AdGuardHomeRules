@@ -34,6 +34,8 @@
 @@||capitalone-udc.digital-cloud.medallia.com^
 @@||dpm.demdex.net^
 @@||api2.branch.io^
+@@||js-agent.newrelic.com^
+@@||capitalone-resources.digital-cloud.medallia.com^
 
 
 @@||ad.jp^
