@@ -29,6 +29,7 @@
 @@||charlesschwab.sc.omtrdc.net^
 @@||collector-axa.cloud.ca.com^
 @@||discover.tt.omtrdc.net^
+@@||mboxedge34.tt.omtrdc.net^
 @@||mobile-sdk-lib-ca-1.brilliantcollector.com^
 @@||widgets.wise.com^
 @@||capitalone-udc.digital-cloud.medallia.com^
