@@ -37,6 +37,10 @@
 @@||api2.branch.io^
 @@||js-agent.newrelic.com^
 @@||capitalone-resources.digital-cloud.medallia.com^
+@@||mobile.eum-appdynamics.com^
+@@||app-measurement.com^
+@@||firebase-settings.crashlytics.com^
+@@||cdn.branch.io^
 
 
 @@||ad.jp^
