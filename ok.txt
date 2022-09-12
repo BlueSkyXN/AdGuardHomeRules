@@ -22,6 +22,7 @@
 @@||skrill.com^
 @@||cmbchina.com^
 @@||bankcomm.com^
+@@||oraclecloud.com^
 
 @@||api.onesignal.com^
 @@||mboxedge35.tt.omtrdc.net^
