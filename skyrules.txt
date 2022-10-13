@@ -112,4 +112,9 @@
 ||super-app.me^
 ||ad-static-xg.tagtic.cn^
 ||cdn.ggsfq.xyz^
-
+||zhixiutec.com^
+||xashengfei.com^
+||nvnxxrk.cn^
+||yingshuigscs.com^
+||henzy.com.cn^
+||xmkbrfyu.cn^
