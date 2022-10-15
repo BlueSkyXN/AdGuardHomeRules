@@ -23,6 +23,7 @@
 @@||cmbchina.com^
 @@||bankcomm.com^
 @@||oraclecloud.com^
+@@||weixin.qq.com
 
 @@||api.onesignal.com^
 @@||mboxedge35.tt.omtrdc.net^

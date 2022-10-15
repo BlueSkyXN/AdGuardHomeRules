@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202207230911
+! Version: 202209221551
 ! Title: CJX's Annoyance List
-! Last modified: 2022/07/23 09:11 +0800
+! Last modified: 2022/09/22 15:51 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 !
@@ -9,7 +9,6 @@
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
 ! Email (cjxlist@gmail.com)
-!#include cjx-ublock.txt
 !--------------------------General blocking filters---------------------------!
 /wiseatom/banner/pack_
 /template/bingfeng/statics/js/pingbi.js
@@ -35,6 +34,7 @@
 ###doyoo_mon_mask
 ###doyoo_monitor
 ###recommend-float + .footer + .popup
+##body.page > .popup
 ###rm-float + .popup
 ##.popup + .shortcuts-mobile-overlay
 ##.siteAnn1
@@ -73,6 +73,7 @@
 ||meiqia.com^$third-party
 ||miduoke.net^$third-party
 ||mylikechat.com^$third-party
+||openinstall.io^$third-party
 ||pop800.com^$third-party
 ||qiyukf.com^$third-party
 ||soperson.com^$third-party
@@ -477,7 +478,11 @@
 ||php.cn/upload/course/
 ||huanqiucdn.cn/huanqiu/js/www/common/detected_block.
 ||yaozh.com/Public/js/widget/dbAdDownload.
+||kandaju.net/js/js2.
+||biancheng.net/templets/new/images/index_pc/fudaoban_
 !------------------------Specific element hiding rules------------------------!
+bilibili.com##.adblock-tips
+map.baidu.com###message-panel
 ghxi.com##div[style="padding:10px;position: fixed;bottom: 0;left: 0;right:0;z-index: 99999;background-color: #cc4444;color: #fff"]
 manmanbuy.com##.app-activity-download
 bilibili.com##.desktop-download-tip
@@ -1254,7 +1259,6 @@ caijing.com.cn##.downdiv
 m.youku.com##.download
 baidu.com##.download-app-parent
 kdnet.net##.download-bar
-wallstreetcn.com##.download-coantainer
 2.taobao.com##.download-layer
 km.com##.downloadApp
 gfan.com##.downs
@@ -1459,7 +1463,6 @@ m.babytree.com##.wrap > section[class*="9"],.wrap > div[class*="9"]
 m.autohome.com.cn##.wrapper > section[class^="box_"]
 yahoo.com##.wrapper-border > .Pos\(r\) > .VideoPlayer.D\(b\).Pos\(r\)
 56.com##.x-download-panel
-wallstreetcn.com##.xinren-wrapper
 1010jiajiao.com##.xiti_content + .xiti
 56.com##.xiu_mm
 ifeng.com##.yc_con_r
@@ -1513,7 +1516,6 @@ m.babytree.com##script + a[class]
 /cp2.gif?*=qc_
 /hunter/alog/*
 /js/soku-analytics.js
-/hm.js?$xmlhttprequest,third-party
 /mysql/count/*$script,domain=ts.cn
 /scriptonline.js?uin=
 /soku/giantstar/js/youlog.js

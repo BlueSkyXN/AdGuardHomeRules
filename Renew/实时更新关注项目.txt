@@ -4,3 +4,10 @@ https://github.com/durablenapkin/scamblocklist
 https://easylist.to/
 https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+
+https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt
+https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
+https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt
+https://easylist.to/easylist/easylist.txt
+https://easylist-downloads.adblockplus.org/easylistchina.txt
