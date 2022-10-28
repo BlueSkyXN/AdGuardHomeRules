@@ -43,6 +43,14 @@
 @@||app-measurement.com^
 @@||firebase-settings.crashlytics.com^
 @@||cdn.branch.io^
+@@||api.lab.amplitude.com^
+@@||crt.usertrust.com^
+@@||cdn.ynuf.aliapp.org^
+@@||imgs.signifyd.com^
+@@||signals.aimtell.com^
+@@||cdn.siftscience.com^
+@@||intuit.com^
+
 
 
 @@||ad.jp^
