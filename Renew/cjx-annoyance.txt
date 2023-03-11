@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202209221551
+! Version: 202303081854
 ! Title: CJX's Annoyance List
-! Last modified: 2022/09/22 15:51 +0800
+! Last modified: 2023/03/08 18:54 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 !
@@ -303,7 +303,6 @@
 ||ye120.com/zool.js
 ||youdao.com/market/banner/banner
 ||youdao.com/www/banner.html
-||yytcdn.com/js/common/widget/pcpusher.
 ||zhiyoo.com/mplus/images/banner.jpg
 ||zndsssp.dangbei.net^
 ||zol-img.com.cn/star/image/star-banner2.gif
@@ -480,10 +479,32 @@
 ||yaozh.com/Public/js/widget/dbAdDownload.
 ||kandaju.net/js/js2.
 ||biancheng.net/templets/new/images/index_pc/fudaoban_
+||3dmgame.com/page/js/indexalert_ad.
+||nicelinks.site/ad-block-
+||juejin.cn/content_api/v1/advert/query_adverts?
 !------------------------Specific element hiding rules------------------------!
+csdn.net##.csdn-common-logo-advert
+a9vg.com###qrcode
+a9vg.com##.a9-back-top_qrcode
+huya.com##.end-ab-banner
+investing.com##div[class*="overlay_overlay"]
+investing.com##div[class*="adBlock"]
+sina.com.cn##DIV[class^="side-btns-jifen"]
+3dmgame.com##.mb30.warp_f
+tianqi.com##.xcx_erweima
+chinagwy.org##.ewm0610
+360kuai.com##.novel_galery_icon
+iciba.com##div[class^="Kyad_"]
+yahoo.com###module-appPromoBanner
+findlaw.cn###wlcommonbot
+huanqiu.com##.right-box > article-other-template
+3dmgame.com##.dj_warp_e
+a9vg.com###guide-download
+bilibili.com##A[href*="cm.bilibili.com"][data-target-url*=".biligame."]
+bilibili.com##A[href*="cm.bilibili.com"][data-target-url*=".biligame."] + .bili-video-card__info
 bilibili.com##.adblock-tips
 map.baidu.com###message-panel
-ghxi.com##div[style="padding:10px;position: fixed;bottom: 0;left: 0;right:0;z-index: 99999;background-color: #cc4444;color: #fff"]
+ghxi.com##div[style^="padding:10px;position: fixed;bottom: 0;left: 0;right:0;z-index"]
 manmanbuy.com##.app-activity-download
 bilibili.com##.desktop-download-tip
 edrawsoft.cn##.activity-banner
@@ -641,9 +662,6 @@ xdf.cn##.popup-wrap
 sina.com.cn##.redPacketCont
 offcn.com###offcn_yx
 3dmgame.com##.modAD
-csdn.net##.passport-login-container
-csdn.net###passportbox
-csdn.net##.login-mark
 21ic.com##.appxb
 csdn.net##.toolbar-advert
 cnitpm.com##.erweima
@@ -1433,7 +1451,6 @@ sogou.com##.tg-box-1
 zhcw.com##.tgtc
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.thread_recommend
 jiankang.com##.three_hot
-pc841.com,zol.com.cn##.today-hot-layer
 jianshu.com##.top
 163.com,zybang.com##.top-banner
 btime.com##.top-bar
