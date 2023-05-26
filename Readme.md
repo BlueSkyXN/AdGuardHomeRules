@@ -3,10 +3,6 @@
 
 请前往相关介绍博文：https://www.blueskyxn.com/202012/2940.html
 
-# DEMO
-
-[![adhdemo.jpg](https://p.pstatp.com/origin/pgc-image/8eb5cd55cfad436a82c28e4f60eb1608)](https://p.pstatp.com/origin/pgc-image/8eb5cd55cfad436a82c28e4f60eb1608)
-
 # USE
 
 ### 主规则
