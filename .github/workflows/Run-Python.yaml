@@ -27,18 +27,25 @@ jobs:
         python Scripts/Get-Renewed-Rules.py
         python Scripts/Merge-Rules-Renew.py
         python Scripts/Merge-Rules-ALL.py
+        python Scripts/ALL-Lite-Convert.py
 
-    - name: Archive production artifacts
+    - name: Upload ALL-Rule
       uses: actions/upload-artifact@v2
       with:
-        name: all-rules
+        name: all-rule
         path: /home/runner/work/AdGuardHomeRules/AdGuardHomeRules/all.txt
+
+    - name: Upload ALL-Rule-Lite
+      uses: actions/upload-artifact@v2
+      with:
+        name: all-lite
+        path: /home/runner/work/AdGuardHomeRules/AdGuardHomeRules/all-lite.txt 
 
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add Part/* Renew/* Scripts/* all.txt
+        git add Part/* Renew/* Scripts/* all.txt all-lite.txt
         git commit -m "Update rules files"
     
     - name: Push changes
