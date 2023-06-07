@@ -1,0 +1,35 @@
+name: Run Python scripts
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Run Python scripts
+      run: |
+        python Scripts/Get-Renewed-Rules.py
+        python Scripts/Merge-Rules-Renew.py
+        python Scripts/Merge-Rules-ALL.py
+
+    - name: Archive production artifacts
+      uses: actions/upload-artifact@v2
+      with:
+        name: all-rules
+        path: all.txt
