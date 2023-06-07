@@ -32,4 +32,4 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: all-rules
-        path: all.txt
+        path: /home/runner/work/AdGuardHomeRules/AdGuardHomeRules/all.txt
