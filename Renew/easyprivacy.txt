@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202306070417
+! Version: 202306080021
 ! Title: EasyPrivacy
-! Last modified: 07 Jun 2023 04:17 UTC
+! Last modified: 08 Jun 2023 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 ! 
@@ -4033,6 +4033,7 @@
 /web-api/log/*
 /web-data-ingress?
 /web-js-telemetry-service/*
+/web-pixel-shopify-app-pixel@
 /web-vitals-
 /web-vitals.
 /web-vitals/*
@@ -14345,6 +14346,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||log.china.cn^
 ||log.genyt.net^
 ||log.hypebeast.com^
+||log.klook.com^
 ||log.quora.com^
 ||log.snapdeal.com^
 ||log.webnovel.com^
