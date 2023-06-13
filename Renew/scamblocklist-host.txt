@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1964
+# Domains: 1935
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -282,9 +282,6 @@
 0.0.0.0 www.casavec.com
 0.0.0.0 casha.xyz
 0.0.0.0 www.casha.xyz
-0.0.0.0 cashadvancexy.xyz
-0.0.0.0 www.cashadvancexy.xyz
-0.0.0.0 store.cashadvancexy.xyz
 0.0.0.0 cebesale.com
 0.0.0.0 www.cebesale.com
 0.0.0.0 cebubestbuy.com
@@ -421,7 +418,6 @@
 0.0.0.0 dataid-subsidies.click
 0.0.0.0 davekoflersbichons.com
 0.0.0.0 www.davekoflersbichons.com
-0.0.0.0 www.davidsmovingco.com
 0.0.0.0 dbhmnp.shop
 0.0.0.0 www.dbhmnp.shop
 0.0.0.0 dbkdsale.com
@@ -527,8 +523,6 @@
 0.0.0.0 www.elitestrustonline.biz
 0.0.0.0 elitestrustonline.com
 0.0.0.0 www.elitestrustonline.com
-0.0.0.0 elonmix.org
-0.0.0.0 www.elonmix.org
 0.0.0.0 elonspace.org
 0.0.0.0 emberio.com
 0.0.0.0 www.emberio.com
@@ -761,9 +755,6 @@
 0.0.0.0 hotmod.eu
 0.0.0.0 www.hotmod.eu
 0.0.0.0 store.hotmod.eu
-0.0.0.0 howarco.com
-0.0.0.0 www.howarco.com
-0.0.0.0 store.howarco.com
 0.0.0.0 husqvarnaoutlet.shop
 0.0.0.0 www.husqvarnaoutlet.shop
 0.0.0.0 i-grade.online
@@ -1031,8 +1022,6 @@
 0.0.0.0 www.markethops.com
 0.0.0.0 marleytecnologica.com
 0.0.0.0 www.marleytecnologica.com
-0.0.0.0 maxearningcryp.com
-0.0.0.0 www.maxearningcryp.com
 0.0.0.0 mbtnorge.com
 0.0.0.0 www.mbtnorge.com
 0.0.0.0 mcdowellsmaltesepuppies.com
@@ -1143,9 +1132,6 @@
 0.0.0.0 www.nicelegant.com
 0.0.0.0 niche3d.us
 0.0.0.0 www.niche3d.us
-0.0.0.0 nikebutikks.com
-0.0.0.0 www.nikebutikks.com
-0.0.0.0 store.nikebutikks.com
 0.0.0.0 nirvezal.com
 0.0.0.0 www.nirvezal.com
 0.0.0.0 nldstore.com
@@ -1280,10 +1266,6 @@
 0.0.0.0 www.phgliders.com
 0.0.0.0 philsshorthairorientalkittens.com
 0.0.0.0 www.philsshorthairorientalkittens.com
-0.0.0.0 photo.ug5m.guru
-0.0.0.0 www.photo.ug5m.guru
-0.0.0.0 pickablegift.com
-0.0.0.0 www.pickablegift.com
 0.0.0.0 pictureoutdoor.com
 0.0.0.0 www.pictureoutdoor.com
 0.0.0.0 pinjamanai001.net
@@ -1435,7 +1417,6 @@
 0.0.0.0 saleussports.com
 0.0.0.0 www.saleussports.com
 0.0.0.0 salimusic.com
-0.0.0.0 www.salimusic.com
 0.0.0.0 saveeeee.myshopify.com
 0.0.0.0 www.saveeeee.myshopify.com
 0.0.0.0 store.saveeeee.myshopify.com
@@ -1661,9 +1642,6 @@
 0.0.0.0 www.teearrow.com
 0.0.0.0 teechip.online
 0.0.0.0 www.teechip.online
-0.0.0.0 teefoody.com
-0.0.0.0 www.teefoody.com
-0.0.0.0 store.teefoody.com
 0.0.0.0 teemax.store
 0.0.0.0 www.teemax.store
 0.0.0.0 teenimo.com
@@ -1676,8 +1654,6 @@
 0.0.0.0 www.teezill.com
 0.0.0.0 telemarktalk.com
 0.0.0.0 www.telemarktalk.com
-0.0.0.0 tesla-openai.com
-0.0.0.0 www.tesla-openai.com
 0.0.0.0 teslabrc.com
 0.0.0.0 teslacar.io
 0.0.0.0 teslagive.live
@@ -1687,8 +1663,6 @@
 0.0.0.0 theeaglebrand.company.site
 0.0.0.0 www.theeaglebrand.company.site
 0.0.0.0 store.theeaglebrand.company.site
-0.0.0.0 thegeekgifts.com
-0.0.0.0 www.thegeekgifts.com
 0.0.0.0 thehappywood.com
 0.0.0.0 www.thehappywood.com
 0.0.0.0 thehardcorehabits.com
@@ -1755,7 +1729,6 @@
 0.0.0.0 www.trade-skins.net
 0.0.0.0 treasurefan.com
 0.0.0.0 www.treasurefan.com
-0.0.0.0 store.treasurefan.com
 0.0.0.0 trendsharks.com
 0.0.0.0 www.trendsharks.com
 0.0.0.0 store.trendsharks.com
@@ -1790,8 +1763,6 @@
 0.0.0.0 www.uangmu.top
 0.0.0.0 uangmudahapp.com
 0.0.0.0 www.uangmudahapp.com
-0.0.0.0 ug5m.guru
-0.0.0.0 www.ug5m.guru
 0.0.0.0 uk-wemakewebsites.com
 0.0.0.0 www.uk-wemakewebsites.com
 0.0.0.0 ukoutdoordeal.com
@@ -1913,10 +1884,10 @@
 0.0.0.0 www.woadoodles.com
 0.0.0.0 worthas.shop
 0.0.0.0 www.worthas.shop
+0.0.0.0 store.worthas.shop
 0.0.0.0 wywacua8.boats
 0.0.0.0 x2-promo.net
 0.0.0.0 www.x2-promo.net
-0.0.0.0 xajzfwgs.com
 0.0.0.0 xrp-give.pro
 0.0.0.0 www.xrp-give.pro
 0.0.0.0 xunlei.it
