@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1935
+# Domains: 1941
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -139,8 +139,6 @@
 0.0.0.0 www.bagsdeuter.com
 0.0.0.0 balkeryswep.online
 0.0.0.0 www.balkeryswep.online
-0.0.0.0 ballsbags.com
-0.0.0.0 www.ballsbags.com
 0.0.0.0 baltic-pipe-finansowy.blogspot.com
 0.0.0.0 www.baltic-pipe-finansowy.blogspot.com
 0.0.0.0 store.baltic-pipe-finansowy.blogspot.com
@@ -215,15 +213,13 @@
 0.0.0.0 www.bonrbox.com
 0.0.0.0 boobeeshop.com
 0.0.0.0 www.boobeeshop.com
-0.0.0.0 boododa.com
-0.0.0.0 www.boododa.com
-0.0.0.0 store.boododa.com
 0.0.0.0 bookblogworld.com
 0.0.0.0 www.bookblogworld.com
 0.0.0.0 booliving.com
 0.0.0.0 www.booliving.com
 0.0.0.0 store.booliving.com
-0.0.0.0 bossaving.com
+0.0.0.0 boooodas.com
+0.0.0.0 www.boooodas.com
 0.0.0.0 botsuanah.com
 0.0.0.0 www.botsuanah.com
 0.0.0.0 boutiqueondemand.com
@@ -254,8 +250,6 @@
 0.0.0.0 www.by-emmamuller.de
 0.0.0.0 byeuys.shop
 0.0.0.0 www.byeuys.shop
-0.0.0.0 c-tozluxury.shop
-0.0.0.0 www.c-tozluxury.shop
 0.0.0.0 c3scores.com
 0.0.0.0 www.c3scores.com
 0.0.0.0 campingsurfshop.com
@@ -343,6 +337,9 @@
 0.0.0.0 www.cofdeal.com
 0.0.0.0 coffeeteaware.com
 0.0.0.0 www.coffeeteaware.com
+0.0.0.0 coinaps.com
+0.0.0.0 www.coinaps.com
+0.0.0.0 store.coinaps.com
 0.0.0.0 coinstoretra.com
 0.0.0.0 colorandcotton.com
 0.0.0.0 www.colorandcotton.com
@@ -367,8 +364,6 @@
 0.0.0.0 www.crackedpc.org
 0.0.0.0 cracksway.com
 0.0.0.0 www.cracksway.com
-0.0.0.0 craftkitsgear.com
-0.0.0.0 www.craftkitsgear.com
 0.0.0.0 crm2.tbg-lmtd.xyz
 0.0.0.0 crocssalenz.com
 0.0.0.0 www.crocssalenz.com
@@ -407,9 +402,6 @@
 0.0.0.0 www.danasenang.com
 0.0.0.0 danylevych.com
 0.0.0.0 www.danylevych.com
-0.0.0.0 daradis.com
-0.0.0.0 www.daradis.com
-0.0.0.0 store.daradis.com
 0.0.0.0 darliasmaltesepuppies.com
 0.0.0.0 www.darliasmaltesepuppies.com
 0.0.0.0 dash.fortissio-invest.com
@@ -634,8 +626,13 @@
 0.0.0.0 store.frostgoddess.com
 0.0.0.0 fruitstee.com
 0.0.0.0 www.fruitstee.com
+0.0.0.0 fuckmebaby.click
+0.0.0.0 www.fuckmebaby.click
 0.0.0.0 fujibikes.com
 0.0.0.0 www.fujibikes.com
+0.0.0.0 fulfillgift.com
+0.0.0.0 www.fulfillgift.com
+0.0.0.0 store.fulfillgift.com
 0.0.0.0 fumekart.com
 0.0.0.0 www.fumekart.com
 0.0.0.0 fundanemt.org
@@ -841,8 +838,6 @@
 0.0.0.0 www.jonausa.com
 0.0.0.0 justdy.shop
 0.0.0.0 www.justdy.shop
-0.0.0.0 k-tozluxury.shop
-0.0.0.0 www.k-tozluxury.shop
 0.0.0.0 kakaoli.co.kr
 0.0.0.0 www.kakaoli.co.kr
 0.0.0.0 store.kakaoli.co.kr
@@ -899,8 +894,6 @@
 0.0.0.0 lasercutjewelry.net
 0.0.0.0 www.lasercutjewelry.net
 0.0.0.0 store.lasercutjewelry.net
-0.0.0.0 ledger-liveweb3app.com
-0.0.0.0 www.ledger-liveweb3app.com
 0.0.0.0 ledgerlive.mobi
 0.0.0.0 www.ledgerlive.mobi
 0.0.0.0 ledgerlives.live
@@ -919,6 +912,9 @@
 0.0.0.0 store.lemstore.com
 0.0.0.0 lericettedifrancy74.com
 0.0.0.0 www.lericettedifrancy74.com
+0.0.0.0 letrantrunghieu.com
+0.0.0.0 www.letrantrunghieu.com
+0.0.0.0 store.letrantrunghieu.com
 0.0.0.0 letteringift.com
 0.0.0.0 www.letteringift.com
 0.0.0.0 store.letteringift.com
@@ -959,6 +955,8 @@
 0.0.0.0 www.loepwatch.com
 0.0.0.0 lojaacasa.com.br
 0.0.0.0 www.lojaacasa.com.br
+0.0.0.0 lomipod.com
+0.0.0.0 www.lomipod.com
 0.0.0.0 lomoor.com
 0.0.0.0 www.lomoor.com
 0.0.0.0 look-like-star.myshopify.com
@@ -1004,6 +1002,8 @@
 0.0.0.0 store.lunapresent.com
 0.0.0.0 luxsgear.com
 0.0.0.0 www.luxsgear.com
+0.0.0.0 m-contact.site
+0.0.0.0 www.m-contact.site
 0.0.0.0 m.bpfutures.top
 0.0.0.0 m.coinexeu.vip
 0.0.0.0 madeinusas.com
@@ -1022,8 +1022,11 @@
 0.0.0.0 www.markethops.com
 0.0.0.0 marleytecnologica.com
 0.0.0.0 www.marleytecnologica.com
+0.0.0.0 maxearningcryp.com
+0.0.0.0 www.maxearningcryp.com
 0.0.0.0 mbtnorge.com
 0.0.0.0 www.mbtnorge.com
+0.0.0.0 store.mbtnorge.com
 0.0.0.0 mcdowellsmaltesepuppies.com
 0.0.0.0 www.mcdowellsmaltesepuppies.com
 0.0.0.0 mcppty.com
@@ -1183,8 +1186,6 @@
 0.0.0.0 oldcube.com
 0.0.0.0 www.oldcube.com
 0.0.0.0 store.oldcube.com
-0.0.0.0 oncloudrun.shop
-0.0.0.0 www.oncloudrun.shop
 0.0.0.0 oneparttimejob.com
 0.0.0.0 www.oneparttimejob.com
 0.0.0.0 onlineadid.com
@@ -1242,6 +1243,7 @@
 0.0.0.0 pasarkta.pasaruang.id
 0.0.0.0 pateim.com
 0.0.0.0 www.pateim.com
+0.0.0.0 store.pateim.com
 0.0.0.0 path2zillion.com
 0.0.0.0 paypartc.top
 0.0.0.0 www.paypartc.top
@@ -1266,16 +1268,14 @@
 0.0.0.0 www.phgliders.com
 0.0.0.0 philsshorthairorientalkittens.com
 0.0.0.0 www.philsshorthairorientalkittens.com
+0.0.0.0 pickcheaptee.com
+0.0.0.0 www.pickcheaptee.com
+0.0.0.0 store.pickcheaptee.com
 0.0.0.0 pictureoutdoor.com
 0.0.0.0 www.pictureoutdoor.com
-0.0.0.0 pinjamanai001.net
-0.0.0.0 www.pinjamanai001.net
 0.0.0.0 www.pinjamanduit.lol
 0.0.0.0 pinjamanelit.top
 0.0.0.0 www.pinjamanelit.top
-0.0.0.0 pinjamanmurah.space
-0.0.0.0 www.pinjamanmurah.space
-0.0.0.0 store.pinjamanmurah.space
 0.0.0.0 pinjamanplus.com
 0.0.0.0 www.pinjamanplus.com
 0.0.0.0 pinjamanrupiah.xyz
@@ -1587,6 +1587,7 @@
 0.0.0.0 store.streamloot.co
 0.0.0.0 stunningstuffs.com
 0.0.0.0 www.stunningstuffs.com
+0.0.0.0 store.stunningstuffs.com
 0.0.0.0 stylegift.co.uk
 0.0.0.0 www.stylegift.co.uk
 0.0.0.0 store.stylegift.co.uk
@@ -1600,6 +1601,7 @@
 0.0.0.0 store.sununi.us
 0.0.0.0 supercutestuff.com
 0.0.0.0 www.supercutestuff.com
+0.0.0.0 store.supercutestuff.com
 0.0.0.0 superfacehoodie.com
 0.0.0.0 www.superfacehoodie.com
 0.0.0.0 store.superfacehoodie.com
@@ -1644,6 +1646,7 @@
 0.0.0.0 www.teechip.online
 0.0.0.0 teemax.store
 0.0.0.0 www.teemax.store
+0.0.0.0 store.teemax.store
 0.0.0.0 teenimo.com
 0.0.0.0 www.teenimo.com
 0.0.0.0 teesunshine.com
@@ -1654,6 +1657,9 @@
 0.0.0.0 www.teezill.com
 0.0.0.0 telemarktalk.com
 0.0.0.0 www.telemarktalk.com
+0.0.0.0 tesla-openai.com
+0.0.0.0 www.tesla-openai.com
+0.0.0.0 store.tesla-openai.com
 0.0.0.0 teslabrc.com
 0.0.0.0 teslacar.io
 0.0.0.0 teslagive.live
@@ -1693,6 +1699,7 @@
 0.0.0.0 www.thuthuatxiaomi.com
 0.0.0.0 tigerkash.com
 0.0.0.0 www.tigerkash.com
+0.0.0.0 store.tigerkash.com
 0.0.0.0 tikgeeker.com
 0.0.0.0 www.tikgeeker.com
 0.0.0.0 store.tikgeeker.com
@@ -1729,6 +1736,7 @@
 0.0.0.0 www.trade-skins.net
 0.0.0.0 treasurefan.com
 0.0.0.0 www.treasurefan.com
+0.0.0.0 store.treasurefan.com
 0.0.0.0 trendsharks.com
 0.0.0.0 www.trendsharks.com
 0.0.0.0 store.trendsharks.com
@@ -1800,8 +1808,6 @@
 0.0.0.0 uschse04.my03.com
 0.0.0.0 www.uschse04.my03.com
 0.0.0.0 store.uschse04.my03.com
-0.0.0.0 usglacierbay.com
-0.0.0.0 www.usglacierbay.com
 0.0.0.0 usnewoutdoor.com
 0.0.0.0 www.usnewoutdoor.com
 0.0.0.0 usnewoutdoors.com
@@ -1811,8 +1817,6 @@
 0.0.0.0 uspostalservice11.d74r.co
 0.0.0.0 www.uspostalservice11.d74r.co
 0.0.0.0 store.uspostalservice11.d74r.co
-0.0.0.0 uspsglobalexpress.com
-0.0.0.0 www.uspsglobalexpress.com
 0.0.0.0 ussportabout.com
 0.0.0.0 www.ussportabout.com
 0.0.0.0 ussportpioneer.com
@@ -1836,6 +1840,8 @@
 0.0.0.0 store.violayvonne.com
 0.0.0.0 vip-yuki-shop.com
 0.0.0.0 www.vip-yuki-shop.com
+0.0.0.0 vipdeit.com
+0.0.0.0 www.vipdeit.com
 0.0.0.0 vipticketgiveaway.com
 0.0.0.0 www.vipticketgiveaway.com
 0.0.0.0 virtuectech.com
