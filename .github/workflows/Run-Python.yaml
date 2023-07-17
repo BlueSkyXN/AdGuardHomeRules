@@ -29,6 +29,7 @@ jobs:
         python Scripts/Merge-Rules-Renew.py
         python Scripts/Merge-Rules-ALL.py
         python Scripts/ALL-Lite-Convert.py
+        python Scripts/ALL-Lite-Split.py
 
     - name: Upload ALL-Rule
       uses: actions/upload-artifact@v2
