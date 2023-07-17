@@ -42,3 +42,7 @@ https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ubcn.txt
 20210424更新：V1.5 新增 manhua-max 调整 manhua-plus 基础版manhua新增多个网站
 
 20210424更新：V2.0 大幅度调整整合规则 之后将会定期抓取几个经常更新的规则组
+
+20230608更新：v3.3.2 增加自动化工作流和对应脚本，实现AUTO抓取处理
+
+20230717更新：v3.4.1 针对 https://github.com/BlueSkyXN/AdGuardHomeRules/issues/16 进行了处理，但是最后发现比较麻烦 ，但是发现问题出现在长行匹配上，请更新官方引导进行处理。
