@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202307101048
+! Version: 202309292316
 ! Title: CJX's Annoyance List
-! Last modified: 2023/07/10 10:48 +0800
+! Last modified: 2023/09/29 23:16 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 !
@@ -53,6 +53,7 @@
 ##.s.u.m.o.me.scrollbox-popup
 ###pop_hongbao
 ###bgframe[style^="position: fixed;"]
+##.wwads_abp
 !-----------------------------Union&third-party-------------------------------!
 ||7moor.com^$third-party
 ||2005net.net^$third-party
@@ -473,7 +474,6 @@
 ||lotuscard.cc/online/
 ||kuke99.com/static/home/js/index/index.js
 ||fulitech.com.cn^*/float.js
-||php.cn/upload/course/
 ||huanqiucdn.cn/huanqiu/js/www/common/detected_block.
 ||yaozh.com/Public/js/widget/dbAdDownload.
 ||kandaju.net/js/js2.
@@ -482,7 +482,19 @@
 ||nicelinks.site/ad-block-
 ||juejin.cn/content_api/v1/advert/query_adverts?
 ||djljz.cn/Plugins/Template/XJLY/js/app.
+||infogram.com^$domain=hk01.com
+||letvcdn.com/lc02_live/201803/18/23/40/1521387641261new.
 !------------------------Specific element hiding rules------------------------!
+on.cc##.appinstall
+36kr.com##.app-track-card
+fnjiasu.com##.sidebar_download
+fnjiasu.com##.layui-layer
+fnjiasu.com##.swiper-container
+crsky.com##.adowGright
+17173.com##a[href^="https://gtv."]
+gamer.com.tw,~buy.gamer.com.tw##a[href^="https://buy.gamer.com.tw"]
+kdocs.cn##.business-list-wrap
+tencent.com##.cdc-commercial-swiper
 focus.cn##.module-common-float-im
 focus.cn##.shequn-code-img
 easylearn.baidu.com##.feedback-icon
@@ -1700,7 +1712,6 @@ m.babytree.com##script + a[class]
 ||log2.mtime.cn^
 ||lotour.net/analytics/statsv2.js
 ||mafengwo.cn/uva/i.gif?
-||mixer.sina.cn^
 ||mlog.aipai.com^
 ||msg.ettoday.net^
 ||msg.iqiyi.com^
