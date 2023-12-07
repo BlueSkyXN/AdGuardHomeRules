@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2098
+# Domains: 2088
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -56,6 +56,7 @@
 0.0.0.0 www.akjamv.shop
 0.0.0.0 akulaku.me
 0.0.0.0 www.akulaku.me
+0.0.0.0 store.akulaku.me
 0.0.0.0 aldofashion.com
 0.0.0.0 www.aldofashion.com
 0.0.0.0 aliyaoberbrunnergreg21.myshopify.com
@@ -107,9 +108,11 @@
 0.0.0.0 atrendsz.com
 0.0.0.0 www.atrendsz.com
 0.0.0.0 attenstyle.com
+0.0.0.0 au-bloomreach.com
+0.0.0.0 www.au-bloomreach.com
+0.0.0.0 store.au-bloomreach.com
 0.0.0.0 audiosg.com.sg
 0.0.0.0 www.audiosg.com.sg
-0.0.0.0 www.auditorscarf.com
 0.0.0.0 augusthenri.be
 0.0.0.0 www.augusthenri.be
 0.0.0.0 auspost.your-redelivery-au.com
@@ -119,7 +122,6 @@
 0.0.0.0 www.azfancy.com
 0.0.0.0 azitecs.com
 0.0.0.0 www.azitecs.com
-0.0.0.0 store.azitecs.com
 0.0.0.0 azvclothing.com
 0.0.0.0 www.azvclothing.com
 0.0.0.0 babybeddingdesign.com
@@ -436,7 +438,6 @@
 0.0.0.0 www.dbmobile-phototan.de
 0.0.0.0 store.dbmobile-phototan.de
 0.0.0.0 dcsnowboard.com
-0.0.0.0 www.dcsnowboard.com
 0.0.0.0 store.dcsnowboard.com
 0.0.0.0 ddoe.shop
 0.0.0.0 www.ddoe.shop
@@ -459,6 +460,9 @@
 0.0.0.0 www.deytee.com
 0.0.0.0 dezpez.com
 0.0.0.0 www.dezpez.com
+0.0.0.0 dgbdhvqpwvplersqjytw.dunkansp.info
+0.0.0.0 www.dgbdhvqpwvplersqjytw.dunkansp.info
+0.0.0.0 store.dgbdhvqpwvplersqjytw.dunkansp.info
 0.0.0.0 dischargebackhanded.com
 0.0.0.0 www.dischargebackhanded.com
 0.0.0.0 store.dischargebackhanded.com
@@ -481,6 +485,9 @@
 0.0.0.0 store.dolystore.com
 0.0.0.0 dompetaman.live
 0.0.0.0 www.dompetaman.live
+0.0.0.0 dopestore.pl
+0.0.0.0 www.dopestore.pl
+0.0.0.0 store.dopestore.pl
 0.0.0.0 draxu.com
 0.0.0.0 www.draxu.com
 0.0.0.0 store.draxu.com
@@ -495,6 +502,9 @@
 0.0.0.0 store.duckydecor.store
 0.0.0.0 duitpanas.top
 0.0.0.0 www.duitpanas.top
+0.0.0.0 dunkansp.info
+0.0.0.0 www.dunkansp.info
+0.0.0.0 store.dunkansp.info
 0.0.0.0 dxraceroutlet.com
 0.0.0.0 www.dxraceroutlet.com
 0.0.0.0 earnpets.com
@@ -685,6 +695,7 @@
 0.0.0.0 fraeuleinemma.fun
 0.0.0.0 www.fraeuleinemma.fun
 0.0.0.0 store.fraeuleinemma.fun
+0.0.0.0 freedom-5g.com
 0.0.0.0 freedommobile2.com
 0.0.0.0 www.freedommobile2.com
 0.0.0.0 frest.info
@@ -747,7 +758,6 @@
 0.0.0.0 www.gladiadormalas.com.br
 0.0.0.0 gllomall.com
 0.0.0.0 www.gllomall.com
-0.0.0.0 www.gload.info
 0.0.0.0 store.gload.info
 0.0.0.0 glstee.com
 0.0.0.0 www.glstee.com
@@ -765,7 +775,6 @@
 0.0.0.0 www.gossvibe.com
 0.0.0.0 gowarehouse.net
 0.0.0.0 www.gowarehouse.net
-0.0.0.0 store.gowarehouse.net
 0.0.0.0 goyourheart.com
 0.0.0.0 www.goyourheart.com
 0.0.0.0 store.goyourheart.com
@@ -782,7 +791,6 @@
 0.0.0.0 haowei.me
 0.0.0.0 www.haowei.me
 0.0.0.0 happylifetee.com
-0.0.0.0 www.happylifetee.com
 0.0.0.0 haruko.store
 0.0.0.0 www.haruko.store
 0.0.0.0 store.haruko.store
@@ -970,7 +978,6 @@
 0.0.0.0 litcomplex.com
 0.0.0.0 www.litcomplex.com
 0.0.0.0 livecato.com
-0.0.0.0 www.livecato.com
 0.0.0.0 store.livecato.com
 0.0.0.0 liverepsae.adeftsolutions.com
 0.0.0.0 www.liverepsae.adeftsolutions.com
@@ -1003,7 +1010,6 @@
 0.0.0.0 www.lskg.shop
 0.0.0.0 lucatee.com
 0.0.0.0 www.lucatee.com
-0.0.0.0 store.lucatee.com
 0.0.0.0 lucchesedeal.store
 0.0.0.0 www.lucchesedeal.store
 0.0.0.0 store.lucchesedeal.store
@@ -1015,8 +1021,6 @@
 0.0.0.0 www.lucidtiger.com
 0.0.0.0 lucysstyle.com
 0.0.0.0 lunapresent.com
-0.0.0.0 www.lunapresent.com
-0.0.0.0 store.lunapresent.com
 0.0.0.0 luxsgear.com
 0.0.0.0 www.luxsgear.com
 0.0.0.0 m.bpfutures.top
@@ -1121,7 +1125,6 @@
 0.0.0.0 navi1.com
 0.0.0.0 www.navi1.com
 0.0.0.0 store.navi1.com
-0.0.0.0 navi10.com
 0.0.0.0 www.navi10.com
 0.0.0.0 store.navi10.com
 0.0.0.0 navi10.ru
@@ -1135,14 +1138,12 @@
 0.0.0.0 store.navi12.com
 0.0.0.0 navi13.com
 0.0.0.0 www.navi13.com
-0.0.0.0 store.navi13.com
 0.0.0.0 navi15.com
 0.0.0.0 www.navi15.com
 0.0.0.0 navi18.com
 0.0.0.0 www.navi18.com
 0.0.0.0 navi2.com
 0.0.0.0 www.navi2.com
-0.0.0.0 navi20.com
 0.0.0.0 www.navi20.com
 0.0.0.0 store.navi20.com
 0.0.0.0 navi20.ru
@@ -1162,6 +1163,7 @@
 0.0.0.0 www.navi24.com
 0.0.0.0 navi24.ru
 0.0.0.0 www.navi24.ru
+0.0.0.0 www.navi28.com
 0.0.0.0 navi3.com
 0.0.0.0 www.navi3.com
 0.0.0.0 store.navi3.com
@@ -1185,6 +1187,9 @@
 0.0.0.0 navi40.com
 0.0.0.0 www.navi40.com
 0.0.0.0 store.navi40.com
+0.0.0.0 navi42.ru
+0.0.0.0 www.navi42.ru
+0.0.0.0 store.navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 www.navi43.com
 0.0.0.0 navi44.ru
@@ -1228,7 +1233,6 @@
 0.0.0.0 navi74.com
 0.0.0.0 www.navi74.com
 0.0.0.0 navi75.com
-0.0.0.0 www.navi75.ru
 0.0.0.0 navi76.com
 0.0.0.0 www.navi76.com
 0.0.0.0 navi77.com
@@ -1258,7 +1262,6 @@
 0.0.0.0 navi91.com
 0.0.0.0 navi94.com
 0.0.0.0 www.navi94.com
-0.0.0.0 www.navi94.ru
 0.0.0.0 navi96.com
 0.0.0.0 navi98.com
 0.0.0.0 www.navi98.com
@@ -1274,6 +1277,7 @@
 0.0.0.0 netflix.update-payment1.com
 0.0.0.0 networksfishing.com
 0.0.0.0 www.networksfishing.com
+0.0.0.0 store.new-space-x23.net
 0.0.0.0 new.bestageoffers22.com
 0.0.0.0 www.new.bestageoffers22.com
 0.0.0.0 store.new.bestageoffers22.com
@@ -1443,9 +1447,6 @@
 0.0.0.0 pasarkta.pasaruang.id
 0.0.0.0 www.pasarkta.pasaruang.id
 0.0.0.0 store.pasarkta.pasaruang.id
-0.0.0.0 pateim.com
-0.0.0.0 www.pateim.com
-0.0.0.0 store.pateim.com
 0.0.0.0 path2zillion.com
 0.0.0.0 paypartc.top
 0.0.0.0 www.paypartc.top
@@ -1459,7 +1460,6 @@
 0.0.0.0 www.personal84.com
 0.0.0.0 pertinacious-assemblage.com
 0.0.0.0 www.pertinacious-assemblage.com
-0.0.0.0 www.pestiecorner.com
 0.0.0.0 petparty.store
 0.0.0.0 www.petparty.store
 0.0.0.0 petsimulator.live
@@ -1474,7 +1474,6 @@
 0.0.0.0 www.philsshorthairorientalkittens.com
 0.0.0.0 pickablegift.com
 0.0.0.0 www.pickablegift.com
-0.0.0.0 store.pickablegift.com
 0.0.0.0 pictureoutdoor.com
 0.0.0.0 www.pictureoutdoor.com
 0.0.0.0 www.pinjamanduit.lol
@@ -1609,6 +1608,7 @@
 0.0.0.0 www.sedark.com
 0.0.0.0 sehaleservices.com
 0.0.0.0 www.sehaleservices.com
+0.0.0.0 www.selamatpinjam.space
 0.0.0.0 sellfox.com
 0.0.0.0 www.sellfox.com
 0.0.0.0 sentees.com
@@ -1632,9 +1632,7 @@
 0.0.0.0 shop-nanox.com
 0.0.0.0 www.shop-nanox.com
 0.0.0.0 shop.spreadshirt.com
-0.0.0.0 shopee1666.com
 0.0.0.0 www.shopee1666.com
-0.0.0.0 store.shopee1666.com
 0.0.0.0 shopraidlight.com
 0.0.0.0 www.shopraidlight.com
 0.0.0.0 shopsyracuseonline.com
@@ -1689,7 +1687,6 @@
 0.0.0.0 source84.com
 0.0.0.0 www.source84.com
 0.0.0.0 southernlife.net
-0.0.0.0 www.southernlife.net
 0.0.0.0 spacexmusk.io
 0.0.0.0 sportfirestore.com
 0.0.0.0 www.sportfirestore.com
@@ -1783,9 +1780,7 @@
 0.0.0.0 www.survivalcatsupply.com
 0.0.0.0 sutton-down-badges.com
 0.0.0.0 www.sutton-down-badges.com
-0.0.0.0 swellsup.com
 0.0.0.0 www.swellsup.com
-0.0.0.0 store.swellsup.com
 0.0.0.0 swuso.com
 0.0.0.0 www.swuso.com
 0.0.0.0 t-post.com
@@ -1839,7 +1834,6 @@
 0.0.0.0 thehardcorehabits.com
 0.0.0.0 www.thehardcorehabits.com
 0.0.0.0 thekeilas.com
-0.0.0.0 www.thekeilas.com
 0.0.0.0 store.thekeilas.com
 0.0.0.0 themountainus.com
 0.0.0.0 www.themountainus.com
@@ -1876,7 +1870,6 @@
 0.0.0.0 www.toddlershood.shop
 0.0.0.0 store.toddlershood.shop
 0.0.0.0 toko999.shop
-0.0.0.0 www.toko999.shop
 0.0.0.0 store.toko999.shop
 0.0.0.0 tomadamsenergy.com
 0.0.0.0 www.tomadamsenergy.com
@@ -1895,7 +1888,6 @@
 0.0.0.0 www.trade-skins.net
 0.0.0.0 treasurefan.com
 0.0.0.0 www.treasurefan.com
-0.0.0.0 store.treasurefan.com
 0.0.0.0 trendsharks.com
 0.0.0.0 www.trendsharks.com
 0.0.0.0 store.trendsharks.com
@@ -1906,6 +1898,7 @@
 0.0.0.0 www.tripinpremiumsnacks.com
 0.0.0.0 tromselementbygg.no
 0.0.0.0 www.tromselementbygg.no
+0.0.0.0 store.tsla-win.com
 0.0.0.0 tsladouble23.com
 0.0.0.0 www.tsladouble23.com
 0.0.0.0 tslaget.live
@@ -1945,8 +1938,6 @@
 0.0.0.0 www.um-bs.com
 0.0.0.0 store.um-bs.com
 0.0.0.0 unifully.com
-0.0.0.0 uniqueetee.com
-0.0.0.0 www.uniqueetee.com
 0.0.0.0 universityofqatarrectorate.godaddysites.com
 0.0.0.0 www.universityofqatarrectorate.godaddysites.com
 0.0.0.0 store.universityofqatarrectorate.godaddysites.com
@@ -1969,6 +1960,7 @@
 0.0.0.0 uschse04.my03.com
 0.0.0.0 www.uschse04.my03.com
 0.0.0.0 store.uschse04.my03.com
+0.0.0.0 usefulnpro.com
 0.0.0.0 usnewoutdoor.com
 0.0.0.0 www.usnewoutdoor.com
 0.0.0.0 usplussports.com
@@ -1984,8 +1976,6 @@
 0.0.0.0 verfun.com
 0.0.0.0 www.verfun.com
 0.0.0.0 store.verfun.com
-0.0.0.0 vetoro.cc
-0.0.0.0 www.vetoro.cc
 0.0.0.0 store.vetoro.cc
 0.0.0.0 vicidola.com
 0.0.0.0 www.vicidola.com
@@ -2032,13 +2022,13 @@
 0.0.0.0 www.wideranging-protector.com
 0.0.0.0 wikeb.com
 0.0.0.0 www.wikeb.com
-0.0.0.0 www.wind88.shop
 0.0.0.0 wintexfashions.com
 0.0.0.0 www.wintexfashions.com
 0.0.0.0 wisdomganga.com
 0.0.0.0 www.wisdomganga.com
 0.0.0.0 woadoodles.com
 0.0.0.0 www.woadoodles.com
+0.0.0.0 www.worthas.shop
 0.0.0.0 wywacua8.boats
 0.0.0.0 x2-promo.net
 0.0.0.0 www.x2-promo.net

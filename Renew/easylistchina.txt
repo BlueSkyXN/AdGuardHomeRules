@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: q9MVmn8tI44F2SEe+Atk+Q
-! Version: 202312060141
+! Checksum: Ssj/Ux9+wORbqJq6FqwxvQ
+! Version: 202312071002
 ! Title: EasyList China
-! Last modified: 06 Dec 2023 01:41 UTC
+! Last modified: 07 Dec 2023 10:02 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1604,12 +1604,14 @@ newduba.cn###jq_youxi
 ##img[src*=".sinaimg."][style="width:150px;height:300px"]
 ##script + #coupletBox
 ##script + #rbbox
+##TD[id^="td_"] > A[href^="/htmm/"]
 ##script + a[href] > img[src*="lbsugc.cdn.bcebos.com"]
 ##script + a[target="_bank"] > img[src*=".c-ctrip.com"][style="width:100%;height:auto;"]
 ##script + div[id^="a-loading-"]
 ##script[src="/js/sy2.js"] + div[align="center"]
 ##span[title="neteasefooter"]
 ##style + .a-loading
+###sc-superman-ad
 ##style + .need_grid_img
 ##style + .vdgdo
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
@@ -1637,6 +1639,7 @@ newduba.cn###jq_youxi
 ##a[href*=".sng.link/"]
 ##a[href*=".sudun.com/"]
 ||05826.online^
+||05pg9z.com^
 ||0a2b3c4d5e.com^
 ||0efghij.com^
 ||0ghijkl.com^
@@ -1720,6 +1723,7 @@ newduba.cn###jq_youxi
 ||aueajkn.cn^
 ||autyxdek.xyz^
 ||avplwte.xyz^
+||awareista.com^
 ||awaw.asia^
 ||ax7fv.space^
 ||azdiqsb.cn^
@@ -1837,6 +1841,7 @@ newduba.cn###jq_youxi
 ||elemea.xyz^
 ||elprput.xyz^
 ||emynwlz.xyz^
+||epebuk.xyz^
 ||eqcwpeo.cn^
 ||eraygc.xyz^
 ||erutxdk.cn^
@@ -1954,6 +1959,7 @@ newduba.cn###jq_youxi
 ||hfjhr.cn^
 ||hfresgtyytjncvvh.com^
 ||hfwld.cn^
+||hgxwhpba.xyz^
 ||hibj.online^
 ||hihlj.online^
 ||hinm.online^
@@ -1995,6 +2001,7 @@ newduba.cn###jq_youxi
 ||insfengdata.com^
 ||iobvmtx.xyz^
 ||ionjkcj.cn^
+||ioswhi.com^
 ||iqs871.com^
 ||irtefs.xyz^
 ||isnd.top^
@@ -2018,12 +2025,14 @@ newduba.cn###jq_youxi
 ||jltolz.xyz^
 ||jmhngn.com^
 ||jmvvpb.xyz^
+||jmylj.cn^
 ||jndxsuy.xyz^
 ||jnkmhn.com^
 ||jofknbpe.xyz^
 ||jppxnhe.xyz^
 ||jqtkzuco.xyz^
 ||jqvajfvs.xyz^
+||jspqhh.xyz^
 ||juhooqv.cn^
 ||julefhgu.xyz^
 ||juljrd.xyz^
@@ -2070,6 +2079,7 @@ newduba.cn###jq_youxi
 ||lewhrzv.xyz^
 ||lfhnzbj.xyz^
 ||lianglili2.cn^
+||linj.top^
 ||liuyi22.cn^
 ||liuyuhuaa.cn^
 ||lkdybkwi.xyz^
@@ -2106,6 +2116,7 @@ newduba.cn###jq_youxi
 ||mhnzhlase.xyz^
 ||mhzftye.xyz^
 ||mlumlio.cn^
+||mlzjepc.xyz^
 ||mmiedf.xyz^
 ||mmtdfxh.xyz^
 ||mmvjuti.cn^
@@ -2123,6 +2134,7 @@ newduba.cn###jq_youxi
 ||myyxox.icu^
 ||mzthbna.xyz^
 ||n019q.com^
+||n0h56.site^
 ||nangongmall.com^
 ||naweslt.cn^
 ||nbxymdy.cn^
@@ -2169,6 +2181,7 @@ newduba.cn###jq_youxi
 ||ovfvkfc.xyz^
 ||owkmmo.xyz^
 ||oxrvfsi.xyz^
+||p5kzev.com^
 ||pajhvd.xyz^
 ||pdngnx.xyz^
 ||pdweoyw.cn^
@@ -2230,6 +2243,7 @@ newduba.cn###jq_youxi
 ||rfrhfh.xyz^
 ||rgpujh.xyz^
 ||rivdxb.xyz^
+||rjwljrf.xyz^
 ||rkds1.icu^
 ||rkds10.icu^
 ||rkds2.icu^
@@ -2246,12 +2260,14 @@ newduba.cn###jq_youxi
 ||rt004.top^
 ||rvreuxi.cn^
 ||rvvji.online^
+||rvvmhp.xyz^
 ||rxrdjb.xyz^
 ||rycff.online^
 ||rzflhxn.cn^
 ||s5ue6.com^
 ||sbhduht.xyz^
 ||scqaaf.cn^
+||sdkjnbjksbnkjs.com^
 ||sdklcnskvbks.com^
 ||serda10.icu^
 ||sgeth9.icu^
@@ -2388,6 +2404,7 @@ newduba.cn###jq_youxi
 ||xfztgxt.com^
 ||xg6hb.xyz^
 ||xgrcfz.xyz^
+||xiaohuishu.top^
 ||xixil.cn^
 ||xjxbdh.xyz^
 ||xkfigjh.cn^
@@ -2425,6 +2442,7 @@ newduba.cn###jq_youxi
 ||ymniqh.icu^
 ||ynulcpt.cn^
 ||yongzhen8.com^
+||yshlor.icu^
 ||ytezym.xyz^
 ||yuanxiaa.cn^
 ||yuanxiab.cn^
@@ -2441,6 +2459,7 @@ newduba.cn###jq_youxi
 ||zents2.top^
 ||zhangyuting04.cn^
 ||zhongfumzzew.com^
+||zigyspv.icu^
 ||ziyzcu.buzz^
 ||zjdruhn.xyz^
 ||zlncvn.xyz^
@@ -2456,15 +2475,24 @@ newduba.cn###jq_youxi
 ||zyzo.cn^
 ||zzyy17.top^
 ||zzyy18.top^
-||hgxwhpba.xyz^
-||rjwljrf.xyz^
-||jmylj.cn^
-||n0h56.site^
-||mlzjepc.xyz^
-||rvvmhp.xyz^
-||epebuk.xyz^
-||jspqhh.xyz^
-||awareista.com^
+||xrllybr.xyz^
+||qbcmws.xyz^
+||99zns.top^
+||96kso.online^
+||vrnblp.xyz^
+||yddbysa.xyz^
+||isna.top^
+||rfxnff.xyz^
+||iephrenhq.com^
+||nwpcptmm.xyz^
+||maxun066.top^
+||maxun118.top^
+##a[href*=".mhtimes.cn"]
+||lvzkfcm.cn^
+||cwrxgb.icu^
+||manymgsgn.com^
+||bmatgg18.xyz^
+||44180055.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 !
@@ -5793,6 +5821,7 @@ newduba.cn###jq_youxi
 ||7xi9g1.com1.z0.glb.clouddn.com^
 ||876920.com^
 ||87uq.com^
+||8861202.com^
 ||94lm.com^
 ||a.youdao.com^
 ||aafuck.xyz^$third-party
@@ -6482,7 +6511,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||52che.com/NewLocal/TemplateHtml/headflash1_
 ||52dytt.net/images/bbs_btn.gif
 ||52dytt.net/img/zlgg.png
-||52ghai.com/data/attachment/common/ac/
 ||52movieba.com/img/ad
 ||52pk.com/style/files/images/*beitou.
 ||52rd.com/Pic/Click/
@@ -6704,7 +6732,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||920share.com/wp-content/uploads/*/911
 ||922tp.com/wp-content/uploads/*0x
 ||92dp.com/home/showga?
-||92ghai.com/zz/
+||2ghai.com/zz/
 ||92uq.com/Ads/
 ||933m.com/1.js
 ||939394.xyz^$image
@@ -10548,6 +10576,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+huya.com##.small-handle-tip
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -12101,7 +12130,7 @@ cnpingpang.com,jdbbs.com,sxpojie.top##.a_h
 tropica.cn##.a_mu1
 muchong.com##.a_subject[href^="creditshow."]
 163.com##.a_topad
-92ghai.com##.a_xiu_t
+2ghai.com##.a_xiu_t
 ishuhui.com##.a_xx_d
 159i.com##.aa
 porn5f.com##.aa-dd-body
@@ -14895,7 +14924,7 @@ ifeng.com##.yiyuan
 fx168.com##.yjl_fx168_focus_TodayNews_jiasheng
 9ku.com##.youFix
 ysxs8.vip##.ysxs8_w960_1
-92ghai.com##.yttl_x_g
+2ghai.com##.yttl_x_g
 xiadele.com##.yun-advertisement
 qq.com##.yw-gg-float
 cnlmjx.com##.yw_ad
