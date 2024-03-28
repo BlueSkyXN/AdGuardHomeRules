@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202403250027
+! Version: 202403272214
 ! Title: EasyPrivacy
-! Last modified: 25 Mar 2024 00:27 UTC
+! Last modified: 27 Mar 2024 22:14 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 ! 
@@ -9570,6 +9570,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collect.rewardstyle.com^
 ||collect.usefathom.com^
 ||collect.verify.lnearn.com^
+||collection.e-satisfaction.com^
 ||collector-*.px-client.net^
 ||collector-api.99designs.com^
 ||collector-api.frspecifics.com^
@@ -9834,7 +9835,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||eventlog.chatlead.com^
 ||eventlog.inspsearchapi.com^
 ||events.air.tv^
-||events.apester.com^
 ||events.attentivemobile.com^
 ||events.audiate.me^
 ||events.brightline.tv^
@@ -10747,6 +10747,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rtxpx-a.akamaihd.net^
 ||rum.azion.com^
 ||rum.azioncdn.net^
+||rum.corewebvitals.io^
 ||rum.ingress.layer0.co^
 ||rum.layer0.co^
 ||rum.perfops.net^
@@ -11576,6 +11577,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dc8xl0ndzn2cb.cloudfront.net^
 ||dd6zx4ibq538k.cloudfront.net^
 ||dggaenaawxe8z.cloudfront.net^
+||dh0c1bz67fuho.cloudfront.net^
 ||di2xwvxz1jrvu.cloudfront.net^
 ||dkupaw9ae63a8.cloudfront.net^
 ||dl1d2m8ri9v3j.cloudfront.net^
@@ -12882,6 +12884,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api-hotmart-tracking-manager.hotmart.com^
 ||api-js.mixpanel.com^
 ||api-router.kaspersky-labs.com/logger2/metrics/
+||api.audio.com/analytics/event
 ||api.channel.io/*/events
 ||api.ffm.to/sl/e/$image
 ||api.narrativ.com/favicon.ico
@@ -27044,6 +27047,7 @@ abema.tv##+js(rmnt, script, NREUM)
 ! ||go.fvtc.edu^
 ! ||hfd.bridgetowermedia.com^
 ! ||marketing.bluekai.com^
+! ||beyondmeasure.rigoltech.com^
 ! 
 ||12build.actonservice.com^
 ||2.ed.west.com^
@@ -28765,7 +28769,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||bersondeanstevens.actonservice.com^
 ||bestbuy.actonservice.com^
 ||bestinfo.bluetrustloans.com^
-||beyondmeasure.rigoltech.com^
 ||bgiamericas.actonservice.com^
 ||bi.concordesolutions.com^
 ||bigcustomernetwork.actonservice.com^
