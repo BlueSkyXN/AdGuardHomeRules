@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202403272214
+! Version: 202403310431
 ! Title: EasyPrivacy
-! Last modified: 27 Mar 2024 22:14 UTC
+! Last modified: 31 Mar 2024 04:31 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 ! 
@@ -1543,7 +1543,6 @@
 /opinionlab.js
 /optiextension.dll?$script
 /optimizelyjs/*
-/ossleads_analytics.js
 /ot_e404.gif?
 /OtAutoBlock.js
 /ouibounce.min.js
@@ -3377,7 +3376,7 @@ omni.soundestlink.com$image
 ||trkn.us^
 ||tru.am^
 ||truffle.bid^
-||trx-hub.com^
+||trx-hub.com^$image
 ||tryzens-analytics.com^
 ||turboeagle.co^
 ||turbolion.io^
@@ -5892,6 +5891,7 @@ omni.soundestlink.com$image
 .n.2.1.l50.js^$third-party
 .n.2.1.l60.js^$third-party
 /cdn-cgi/pe/bag2?r[]=*eth-pocket.de
+||109.123.233.251^
 ||185.193.38.148^
 ||35.194.26.233^
 ||35.239.57.233^
@@ -5969,6 +5969,7 @@ omni.soundestlink.com$image
 ||g1thub.com^
 ||gay-hotvideo.net^
 ||goldoffer.online^$third-party
+||gulf.moneroocean.stream^
 ||gus.host^$third-party
 ||hashcoin.co^$third-party
 ||hashing.win^$third-party
@@ -6699,6 +6700,7 @@ omni.soundestlink.com$image
 ||flimsycircle.com^
 ||flimsythought.com^
 ||floodprincipal.com^
+||flourishingcollaboration.com^
 ||flowersornament.com^
 ||flowerstreatment.com^
 ||flowerycreature.com^
@@ -7067,6 +7069,7 @@ omni.soundestlink.com$image
 ||nappyneck.com^
 ||neatshade.com^
 ||nebulacrescent.com^
+||nebulajubilee.com^
 ||nebulousamusement.com^
 ||nebulousripple.com^
 ||necessarywax.com^
@@ -9018,6 +9021,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ! *** easylist:easyprivacy/easyprivacy_thirdparty.txt ***
 -client-tracking.goodgamestudios.com/
 -wrapper-analytics-prod.cloudfunctions.net/
+||1.1.1.1/cdn-cgi/trace
 ||100widgets.com^$third-party
 ||105app.com/report/?
 ||1558334541.rsc.cdn77.org^
@@ -10787,6 +10791,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||scripts.psyma.com^
 ||sd-tagging.azurefd.net^
 ||sdiapi.com/reporter/
+||sdk.51.la^$third-party
 ||sdrive.skoda-auto.com^
 ||sdtagging.azureedge.net^
 ||searchcompletion.com/BannerHandler.ashx
@@ -12084,6 +12089,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||p.aty.sohu.com^
 ||p.tencentmind.com^
 ||pos.baidu.com^
+||pr.nss.netease.com^
 ||pstatp.com^*/raven.js
 ||pstatp.com^*/ttstatistics.
 ||pv.hd.sohu.com^
@@ -12667,6 +12673,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||advgo.net/mushroom/
 ||analitica.webrpp.com^
 ||analytics.lasegunda.ecn.cl^
+||analytics.mercadolibre.com^
 ||analytics.neoogilvy.uy^
 ||bpt.webedia-group.com^
 ||citiservi.es/adstrack?
@@ -13848,7 +13855,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||spectrum.gettyimages.com^
 ||speed.cloudflare.com/__log
 ||sportsmansguide.com/scripts/vendor/at_
-||spotifycdn.com/cdn/js/retargeting-pixels-
+||spotifycdn.com/cdn/js/retargeting-pixels.
 ||spt.ahram.org.eg^
 ||squarespace.com/api/1/performance/
 ||squirrel.malaynahocker.com^
@@ -13962,6 +13969,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.zulily.com^
 ||t2.hulu.com^
 ||tagger.ope.scmp.com^
+||tagging.steelseries.com^
 ||tags.aljazeera.com^
 ||tags.johnlewis.com^
 ||tags.news.com.au^$script
@@ -50159,7 +50167,6 @@ abema.tv##+js(rmnt, script, NREUM)
 @@||onenote.com^*/aria-web-telemetry
 @@||online-metrix.net/fp/tags.js$domain=donorschoose.org
 @@||onlinebanking.usbank.com/TUX/public/libs/adobe/appmeasurement.js$script,~third-party
-@@||open.spotifycdn.com/cdn/build/embed/overture.$script,domain=open.spotify.com
 @@||optimove.net^$domain=app.touchnote.com
 @@||ots.webtrends-optimize.com/$xmlhttprequest,domain=tvlicensing.co.uk
 @@||p.typekit.net/p.css$stylesheet,domain=athleticpropulsionlabs.com|browserstack.com|bungie.net|business.untappd.com|robertsspaceindustries.com
@@ -50458,6 +50465,7 @@ abema.tv##+js(rmnt, script, NREUM)
 @@||gtimg.com/qqcdn/*/beacon.min.js$script,domain=qq.com
 @@||hk.on.cc/js/v4/urchin.js
 @@||iwrite.unipus.cn/js/main/GPT.js$~third-party
+@@||mail.163.com/fetrack/api/27/envelope/?sentry_key=$xmlhttprequest
 @@||marketing.unionpayintl.com/offer-promote/static/sensorsdata.min.js$script,~third-party
 @@||nobook.com/open-interface/official-sensors.git/$script,~third-party
 @@||statics.zcool.com.cn/track/sensors.$script,~third-party
