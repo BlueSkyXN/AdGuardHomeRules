@@ -52,8 +52,9 @@
 
 
 @@||ad.jp^
-@@||default.cn.zb.wagbridge.ad.alibabacorp.com
-@@||default.cn.zb.wagbridge.ad.alibabacorp.com.gds.alibabadns.com
+@@/default.cn.*.wagbridge.ad.alibabacorp.com/
+@@/default.cn.*.wagbridge.ad.alibabacorp.com.gds.alibabadns.com/
+
 
 @@||tagtic.cn^
 @@||knet.cn^
