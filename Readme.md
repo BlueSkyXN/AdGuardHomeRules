@@ -5,25 +5,31 @@
 
 # USE
 
-### 主规则
-
-https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt
-
-https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/skyrules.txt
-
-https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ok.txt
-
-### 动漫&漫画网站定制规则【三个等级，互不相同，请叠加使用，越高等级越容易误杀】
-
-https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua.txt
-
-https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua-plus.txt
-
-https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua-max.txt
-
-### UBCN补充规则
-
-https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ubcn.txt
+## 主规则
+### 国际用户URL
+#### 放在黑名单区
+- https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt
+- https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/skyrules.txt
+#### （国际用户）放在白名单区
+- https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ok.txt
+#### 动漫&漫画网站定制规则
+- 三个等级，互不相同，请叠加使用，越高等级越容易误杀
+- 目前这个已停止维护
+- https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua.txt
+- https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua-plus.txt
+- https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua-max.txt
+### 中国大陆用户特供URL
+#### 放在黑名单区
+- https://raw.gitcode.com/BlueSkyXN/AdGuardHomeRules/raw/master/all.txt
+- https://raw.gitcode.com/BlueSkyXN/AdGuardHomeRules/master/skyrules.txt
+#### （国际用户）放在白名单区
+- https://raw.gitcode.com/BlueSkyXN/AdGuardHomeRules/master/ok.txt
+#### 动漫&漫画网站定制规则
+- 三个等级，互不相同，请叠加使用，越高等级越容易误杀
+- 目前这个已停止维护
+- https://raw.gitcode.com/BlueSkyXN/AdGuardHomeRules/master/manhua.txt
+- https://raw.gitcode.com/BlueSkyXN/AdGuardHomeRules/master/manhua-plus.txt
+- https://raw.gitcode.com/BlueSkyXN/AdGuardHomeRules/master/manhua-max.txt
 
 
 
@@ -46,6 +52,8 @@ https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ubcn.txt
 20230608更新：v3.3.2 增加自动化工作流和对应脚本，实现AUTO抓取处理
 
 20230717更新：v3.4.1 针对 https://github.com/BlueSkyXN/AdGuardHomeRules/issues/16 进行了处理，但是最后发现比较麻烦 ，但是发现问题出现在长行匹配上，请更新官方引导进行处理。
+
+20240626更新：v3.5.0 主要修改了Readme.md 信息以便更好的介绍和入门使用，同时借用了gitnode的境内加速（非即时更新，是csdn等中国大陆公司违法爬取的）
 
 
 ## Star History
