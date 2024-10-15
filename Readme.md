@@ -5,13 +5,15 @@
 
 # USE
 
+黑名单的放在黑名单，白名单的放在白名单，有些域名的CNAME使用了敏感词会导致拦截，比如阿里系产品经常使用ad作为cname cdn域名
+
 ## 主规则
 ### 国际用户URL
 #### 放在黑名单区
-- https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt 或者 https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all-lite.txt
-- https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/skyrules.txt
+- https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt 或者 https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all-lite.txt （二选一）
+- https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/skyrules.txt （建议开启）
 #### 放在白名单区
-- https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ok.txt
+- https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ok.txt （必须开启）
 #### 动漫&漫画网站定制规则
 - 三个等级，互不相同，请叠加使用，越高等级越容易误杀
 - 目前这个已停止维护
