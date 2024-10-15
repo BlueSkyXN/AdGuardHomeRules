@@ -1,21 +1,17 @@
 name: Run Python scripts
 
 on:
-  push:
-    branches: [ master ]
   workflow_dispatch:
-
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
 
     - name: Set up Python 3.8
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4
       with:
         python-version: 3.8
 
@@ -31,26 +27,26 @@ jobs:
         python Scripts/ALL-Lite-Convert.py
 
     - name: Upload ALL-Rule
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         name: all-rule
         path: /home/runner/work/AdGuardHomeRules/AdGuardHomeRules/all.txt
 
     - name: Upload ALL-Rule-Lite
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         name: all-lite
-        path: /home/runner/work/AdGuardHomeRules/AdGuardHomeRules/all-lite.txt 
+        path: /home/runner/work/AdGuardHomeRules/AdGuardHomeRules/all-lite.txt
 
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add Part/* Renew/* Scripts/* all.txt all-lite.txt
-        git commit -m "Update rules files"
-    
+        git diff-index --quiet HEAD || git commit -m "Update rules files"
+
     - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: master
+      run: |
+        git push origin master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
