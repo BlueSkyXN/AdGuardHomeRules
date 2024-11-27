@@ -9,6 +9,7 @@ filenames = [
     "Renew/easylistchina.txt",
     "Renew/halflife.txt",
     "Renew/scamblocklist-host.txt",
+    "Renew/AWAvenue-Ads-Rule.txt",
     "Renew/StevenBlack.txt"
 ]
 

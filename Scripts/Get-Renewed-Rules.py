@@ -18,6 +18,7 @@ files_to_download = {
     "https://easylist-downloads.adblockplus.org/easylistchina.txt": "Renew/easylistchina.txt",
     "https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt": "Renew/halflife.txt",
     "https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt": "Renew/scamblocklist-host.txt",
+    "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/AWAvenue-Ads-Rule.txt": "Renew/AWAvenue-Ads-Rule.txt",
     "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts": "Renew/StevenBlack.txt"
 }
 
