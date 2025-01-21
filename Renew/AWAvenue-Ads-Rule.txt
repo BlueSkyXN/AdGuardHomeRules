@@ -1,6 +1,6 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 745
+!Total lines: 753
 !Version: 1.5.6-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -8,8 +8,6 @@
 
 
 ||1010pic.com^
-||16dd-advertise-1252317822.file.myqcloud.com^
-||16dd-advertise-1252317822.image.myqcloud.com^
 ||8le8le.com^
 ||a0.app.xiaomi.com^
 ||aaid.umeng.com^
@@ -101,6 +99,7 @@
 ||adserver.unityads.unity3d.com^
 ||adservice.google.cn^
 ||adservice.google.com^
+||adservice.sigmob.cn^
 ||adserviceretry.kugou.com^
 ||adsfile.bssdlbig.kugou.com^
 ||adsfile.qq.com^
@@ -244,6 +243,7 @@
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
 ||cdn-plugin-sync-upgrade-juui.hismarttv.com^
 ||cdn.ad.xiaomi.com^
+||cdn.aiclk.com^
 ||cdn.ynuf.aliapp.org^
 ||cfg.imtt.qq.com^
 ||chat1.jd.com^
@@ -260,6 +260,7 @@
 ||commdata.v.qq.com^
 ||config.chsmarttv.com^
 ||config.unityads.unity3d.com^
+||cpc-service-square.aiclk.com^
 ||cpro.baidustatic.com^
 ||crashlytics.com^
 ||crashlyticsreports-pa.googleapis.com^
@@ -270,6 +271,7 @@
 ||data.mistat.india.xiaomi.com^
 ||data.mistat.rus.xiaomi.com^
 ||data.mistat.xiaomi.com^
+||dc.sigmob.cn^
 ||diagnosis.ad.xiaomi.com^
 ||dig.bdurl.net^
 ||dl.zuimeitianqi.com^
@@ -298,6 +300,7 @@
 ||events.redditmedia.com^
 ||fclog.baidu.com^
 ||feed-image.baidu.com^
+||file.daihuo.qq.com^
 ||firebaselogging-pa.googleapis.com^
 ||flurry.com^
 ||frontend-perf-service.e.kuaishou.com^
@@ -346,7 +349,6 @@
 ||hybrid.miniapp.taobao.com^
 ||hye.comp.360os.com^
 ||hyt.comp.360os.com^
-||i.snssdk.com^
 ||iad.apple.com^
 ||iadctest.qwapi.com^
 ||iadsdk.apple.com^
@@ -384,6 +386,7 @@
 ||kl.67it.com^
 ||klink.volceapplog.com^
 ||knicks.jd.com^
+||ks.ferlytc.com^
 ||ks.pull.yximgs.com^
 ||launcher.smart-tv.cn^
 ||launcherimg.smart-tv.cn^
@@ -426,6 +429,7 @@
 ||log.zijieapi.com^
 ||log1.cmpassport.com^
 ||logbak.hicloud.com^
+||logrcv.aiclk.com^
 ||logs.amap.com^
 ||logservice.hicloud.com^
 ||logservice1.hicloud.com^
@@ -453,6 +457,7 @@
 ||mine.baidu.com^
 ||mission-pub.smart-tv.cn^
 ||miui-fxcse.avlyun.com^
+||mmgame.qpic.cn^
 ||mnqlog.ldmnq.com^
 ||mobads-logs.baidu.com^
 ||mobads-pre-config.cdn.bcebos.com^
@@ -485,6 +490,7 @@
 ||open.snssdk.com^
 ||optimus-ads.amap.com^
 ||orbit.jd.com^
+||oss.cdn.aiclk.com^
 ||oth.eve.mdt.qq.com^
 ||oth.str.mdt.qq.com^
 ||otheve.play.aiseet.atianqi.com^
@@ -528,6 +534,7 @@
 ||res2.hubcloud.com.cn^
 ||res3.hubcloud.com.cn^
 ||resolve.umeng.com^
+||rev.aiclk.com^
 ||review.gdtimg.com^
 ||rms-drcn.platform.dbankcloud.cn^
 ||roi.soulapp.cn^
@@ -541,7 +548,6 @@
 ||samsung-com.112.2o7.net^
 ||samsungads.com^
 ||sanme2.taisantech.com^
-||saveu5-normal-lq.zijieapi.com^
 ||scdown.qq.com^
 ||scs.openspeech.cn^
 ||sdk-ab-config.qquanquan.com^
@@ -629,6 +635,7 @@
 ||tnc3-bjlgy.zijieapi.com^
 ||toblog.ctobsnssdk.com^
 ||trace.qq.com^
+||tracelog-debug.aiclk.com^
 ||tracelog-debug.qquanquan.com^
 ||track.lc.quark.cn^
 ||track.uc.cn^
@@ -657,9 +664,11 @@
 ||union.baidu.com^
 ||update.avlyun.sec.miui.com^
 ||update.lejiao.tv^
+||update0.aiclk.com^
 ||upgrade-update.hismarttv.com^
 ||uranus.jd.com^
 ||us.l.qq.com^
+||usr-api.aiclk.com^
 ||v.adintl.cn^
 ||v.adx.hubcloud.com.cn^
 ||v1-ad.video.yximgs.com^
@@ -713,12 +722,12 @@
 ||widgets.outbrain.com^
 ||widgets.pinterest.com^
 ||win.gdt.qq.com^
-||wl.jd.com^
 ||wn.x.jd.com^
 ||ws-keyboard.shouji.sogou.com^
 ||ws.sj.qq.com^
 ||www42.zskwai.com^
 ||wxa.wxs.qq.com^
+||wxaintpcos.wxqcloud.qq.com.cn^
 ||wximg.wxs.qq.com^
 ||wxsmw.wxs.qq.com^
 ||wxsnsad.tc.qq.com^
@@ -727,7 +736,6 @@
 ||wxsnsdythumb.wxs.qq.com^
 ||xc.gdt.qq.com^
 ||xiaomi-dtv.m.cn.miaozhen.com^
-||xiaoshuo.wtzw.com^
 ||xlivrdr.com^
 ||xlmzc.cnjp-exp.com^
 ||xlog.jd.com^
