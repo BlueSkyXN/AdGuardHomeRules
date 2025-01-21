@@ -49,7 +49,7 @@
 @@||cdn.siftscience.com^
 @@||intuit.com^
 @@||baidu-ide.bj.bcebos.com^
-
+@@||sec.resource.xiaomi.net^
 
 
 @@||ad.jp^
