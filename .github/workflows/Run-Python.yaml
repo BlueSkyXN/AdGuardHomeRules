@@ -27,13 +27,13 @@ jobs:
         python Scripts/ALL-Lite-Convert.py
 
     - name: Upload ALL-Rule
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: all-rule
         path: /home/runner/work/AdGuardHomeRules/AdGuardHomeRules/all.txt
 
     - name: Upload ALL-Rule-Lite
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: all-lite
         path: /home/runner/work/AdGuardHomeRules/AdGuardHomeRules/all-lite.txt
