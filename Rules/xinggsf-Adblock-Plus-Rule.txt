@@ -308,7 +308,7 @@ pageMediaControl*$script
 @@||log.vdn.apps.cntv.cn/stat.html?
 ||stat.
 */stat.
-||wan.$~image
+!||wan.$~image
 ||iwan.$third-party
 !-------------------通用脚本广告--------------------
 */51ads/
