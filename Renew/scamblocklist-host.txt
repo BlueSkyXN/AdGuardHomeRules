@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 3089
+# Domains: 3084
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -127,6 +127,8 @@
 0.0.0.0 store.airupsrbija.com
 0.0.0.0 aizipai.cn
 0.0.0.0 www.aizipai.cn
+0.0.0.0 akulaku.me
+0.0.0.0 www.akulaku.me
 0.0.0.0 aldofashion.com
 0.0.0.0 www.aldofashion.com
 0.0.0.0 store.aldofashion.com
@@ -164,6 +166,9 @@
 0.0.0.0 www.amznshirts.com
 0.0.0.0 store.amznshirts.com
 0.0.0.0 an1.is
+0.0.0.0 animeshoppers.com
+0.0.0.0 www.animeshoppers.com
+0.0.0.0 store.animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 www.anydebrid.com
 0.0.0.0 app-uniswapping.org
@@ -365,6 +370,7 @@
 0.0.0.0 bombardina.pl
 0.0.0.0 www.bombardina.pl
 0.0.0.0 booliving.com
+0.0.0.0 www.booliving.com
 0.0.0.0 store.booliving.com
 0.0.0.0 botsuanah.com
 0.0.0.0 www.botsuanah.com
@@ -594,7 +600,6 @@
 0.0.0.0 ddzk513bd.com
 0.0.0.0 www.ddzk513bd.com
 0.0.0.0 store.ddzk513bd.com
-0.0.0.0 www.de-expose.life
 0.0.0.0 decompraschile.com
 0.0.0.0 www.decompraschile.com
 0.0.0.0 decoryourhome.store
@@ -720,8 +725,8 @@
 0.0.0.0 www.ekommmedia.com
 0.0.0.0 elitestrustonline.biz
 0.0.0.0 www.elitestrustonline.biz
+0.0.0.0 store.elitestrustonline.biz
 0.0.0.0 ellezz.com
-0.0.0.0 store.elontesla23.pro
 0.0.0.0 elonweb.org
 0.0.0.0 elrifeno.com
 0.0.0.0 www.elrifeno.com
@@ -824,6 +829,7 @@
 0.0.0.0 faze24.com
 0.0.0.0 www.faze24.com
 0.0.0.0 store.faze24.com
+0.0.0.0 www.faze3.com
 0.0.0.0 faze4.com
 0.0.0.0 www.faze4.com
 0.0.0.0 faze40.com
@@ -897,12 +903,7 @@
 0.0.0.0 fishingdaily.shop
 0.0.0.0 www.fishingdaily.shop
 0.0.0.0 fitgirl-repacks-site.org
-0.0.0.0 fitgirl-repacks.vip
-0.0.0.0 www.fitgirl-repacks.vip
-0.0.0.0 store.fitgirl-repacks.vip
 0.0.0.0 fitgirlrepacksite.com
-0.0.0.0 www.fitgirlrepacksite.com
-0.0.0.0 store.fitgirlrepacksite.com
 0.0.0.0 fiusps.com
 0.0.0.0 www.fiusps.com
 0.0.0.0 fkpgr.buzz
@@ -935,6 +936,7 @@
 0.0.0.0 www.friday99.com
 0.0.0.0 fridaylocalmanager.duckdns.org
 0.0.0.0 www.fridaylocalmanager.duckdns.org
+0.0.0.0 store.fridaylocalmanager.duckdns.org
 0.0.0.0 frostgoddess.com
 0.0.0.0 www.frostgoddess.com
 0.0.0.0 store.frostgoddess.com
@@ -985,6 +987,9 @@
 0.0.0.0 get-kmspico.com
 0.0.0.0 www.get-kmspico.com
 0.0.0.0 store.get-kmspico.com
+0.0.0.0 getintopc.today
+0.0.0.0 www.getintopc.today
+0.0.0.0 store.getintopc.today
 0.0.0.0 getkmspico.com
 0.0.0.0 www.getkmspico.com
 0.0.0.0 getsupport-lcloud.com
@@ -1013,7 +1018,6 @@
 0.0.0.0 www.globalvisacorp.com
 0.0.0.0 gogiworld.com
 0.0.0.0 www.gogiworld.com
-0.0.0.0 store.goglle.com
 0.0.0.0 goindiavisa.com
 0.0.0.0 www.goindiavisa.com
 0.0.0.0 gossvibe.com
@@ -1046,7 +1050,6 @@
 0.0.0.0 www.gtltower.com
 0.0.0.0 gtltowerinfratel.in
 0.0.0.0 www.gtltowerinfratel.in
-0.0.0.0 habilitacao.org
 0.0.0.0 habtoorloyal.com
 0.0.0.0 www.habtoorloyal.com
 0.0.0.0 haceroberomaste.com
@@ -1543,6 +1546,8 @@
 0.0.0.0 mystitich4u.com
 0.0.0.0 www.mystitich4u.com
 0.0.0.0 mysuperdatingforyou.life
+0.0.0.0 www.mysuperdatingforyou.life
+0.0.0.0 store.mysuperdatingforyou.life
 0.0.0.0 n24-news.com
 0.0.0.0 www.n24-news.com
 0.0.0.0 store.n24-news.com
@@ -1631,9 +1636,8 @@
 0.0.0.0 navi4.com
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
-0.0.0.0 navi42.ru
-0.0.0.0 www.navi42.ru
 0.0.0.0 navi45.ru
+0.0.0.0 navi52.com
 0.0.0.0 navi53.com
 0.0.0.0 www.navi53.com
 0.0.0.0 navi55.com
@@ -1675,6 +1679,7 @@
 0.0.0.0 navi88.com
 0.0.0.0 www.navi88.com
 0.0.0.0 store.navi88.com
+0.0.0.0 navi95.com
 0.0.0.0 navi99.com
 0.0.0.0 www.navi99.com
 0.0.0.0 store.navi99.com
@@ -1761,7 +1766,6 @@
 0.0.0.0 www.norfotball.com
 0.0.0.0 norgefotball.com
 0.0.0.0 www.norgefotball.com
-0.0.0.0 www.norgeshoes.com
 0.0.0.0 nosdaarte.com
 0.0.0.0 www.nosdaarte.com
 0.0.0.0 notasdenatran.co
@@ -1897,7 +1901,6 @@
 0.0.0.0 phototan-cdirect.info
 0.0.0.0 www.phototan-cdirect.info
 0.0.0.0 store.phototan-cdirect.info
-0.0.0.0 www.phototan.net
 0.0.0.0 pickablegift.com
 0.0.0.0 www.pickablegift.com
 0.0.0.0 store.pickablegift.com
@@ -2103,10 +2106,6 @@
 0.0.0.0 saveeeee.myshopify.com
 0.0.0.0 www.saveeeee.myshopify.com
 0.0.0.0 store.saveeeee.myshopify.com
-0.0.0.0 www.sber.pay.www.booking.com-id20341.info
-0.0.0.0 store.sberbank.avito.avito.avito.avito.avito.booking.com-id02349.info
-0.0.0.0 store.sberbank.avito.avito.www.booking.com-id01251.info
-0.0.0.0 www.sberbank.avito.avito.www.booking.com-id809702.com
 0.0.0.0 scoigr.buzz
 0.0.0.0 www.scoigr.buzz
 0.0.0.0 scottfamilyministries.org
@@ -2269,7 +2268,6 @@
 0.0.0.0 steamunlock.com
 0.0.0.0 www.steamunlock.com
 0.0.0.0 stearncommunjty.net
-0.0.0.0 www.stearncommunjty.net
 0.0.0.0 store.stearncommunjty.net
 0.0.0.0 stellara.de
 0.0.0.0 www.stellara.de
@@ -2343,7 +2341,6 @@
 0.0.0.0 www.supperbrand.company.site
 0.0.0.0 store.supperbrand.company.site
 0.0.0.0 supreme-adblocker.net
-0.0.0.0 www.supreme-adblocker.net
 0.0.0.0 store.supreme-adblocker.net
 0.0.0.0 survivalcatsupply.com
 0.0.0.0 www.survivalcatsupply.com
@@ -2798,7 +2795,6 @@
 0.0.0.0 www.uplevelreward.com
 0.0.0.0 upnews.me
 0.0.0.0 uprising.kip.pro
-0.0.0.0 store.uprising.kip.pro
 0.0.0.0 upsbezorging.com
 0.0.0.0 ureashi.com
 0.0.0.0 www.ureashi.com
@@ -2958,7 +2954,6 @@
 0.0.0.0 wpad.top
 0.0.0.0 wpad.xyz
 0.0.0.0 wpclick.cc
-0.0.0.0 www.wpclick.cc
 0.0.0.0 wuqrie.info
 0.0.0.0 ww25.utilify.me
 0.0.0.0 www.ww25.utilify.me
