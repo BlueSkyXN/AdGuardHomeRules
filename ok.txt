@@ -53,6 +53,8 @@
 @@||intuit.com^
 @@||baidu-ide.bj.bcebos.com^
 @@||sec.resource.xiaomi.net^
+@@||api.sec.intl.miui.com^
+@@||wl.jd.com^
 
 
 @@||ad.jp^
