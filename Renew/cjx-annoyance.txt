@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202508111254
+! Version: 202511031606
 ! Title: CJX's Annoyance List
-! Last modified: 2025/08/11 12:54 +0800
+! Last modified: 2025/11/03 16:06 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 !
@@ -500,6 +500,11 @@
 ||uiadmin.net/uview-plus/assets/js/3.1b3a95a0.
 ||eastmoney.com/trade/fundfavortonglan.
 !------------------------Specific element hiding rules------------------------!
+eastmoney.com##p > a[href*="acttg.eastmoney.com"]
+5eplay.com##footer
+5eplay.com##.right-aside-box
+5eplay.com##.ad_img-bg-bg-p
+5eplay.com##.banner-fixed
 500.com##.floatLayer-container
 500.com##.pc_odds_fenxi_banner
 douyu.com,~wan.douyu.com##a[href*="g.wan.douyu.com"]
@@ -1583,6 +1588,8 @@ m.babytree.com##script + a[class]
 @@||fm.ipinyou.$domain=ipinyou.com.cn
 @@||fm.p0y.cn^$domain=ipinyou.com.cn
 !--------------------------------Tracking Systems-----------------------------!
+||shinpa.me^
+||dytt8899.com/js/tj.js
 ||xuan5.com^$third-party
 ||com.day^
 ||tongjiniao.com^$third-party
