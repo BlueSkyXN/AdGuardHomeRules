@@ -1323,7 +1323,6 @@
 127.0.0.1 www.baihe.com
 127.0.0.1 www.jiayuan.com
 #cant del account
-127.0.0.1 www.haier.com
 127.0.0.1 www.zhongmin.cn
 127.0.0.1 www.aihuishou.com
 127.0.0.1 www.gome.com.cn
